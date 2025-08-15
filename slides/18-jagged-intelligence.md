@@ -62,9 +62,8 @@
   </svg>
 </div>
 
-<notes>
+Notes:
 - The blue jagged line represents volatile outcomes from current AI usage (peaks and troughs).
 - The dashed gray line is the human-only baseline.
 - The green curve shows our goal: raise and stabilize outcomes with training, tooling, and guardrails.
-</notes>
 
