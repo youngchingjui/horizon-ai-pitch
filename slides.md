@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: ./public/images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
+background: ./images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 ---
 
 # Horizon (AI)

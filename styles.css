@@ -1,0 +1,26 @@
+/* Subtle background accents for non-title slides */
+
+/* Apply gentle corner accents using radial gradients.
+   Kept very low-contrast so content remains primary. */
+.slidev-page:not(.no-accent) .slidev-layout {
+  /* two soft blobs: top-right and bottom-left */
+  background-image:
+    radial-gradient(
+      600px 240px at 110% -10%,
+      rgba(15, 23, 42, 0.06),
+      transparent 60%
+    ),
+    radial-gradient(
+      520px 220px at -10% 110%,
+      rgba(15, 23, 42, 0.04),
+      transparent 70%
+    );
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: local;
+}
+
+/* If any specific slide needs no accent, add `class: no-accent` in its frontmatter */
+.no-accent .slidev-layout {
+  background-image: none !important;
+}
