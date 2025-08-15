@@ -1,14 +1,9 @@
 ---
 layout: center
-class: text-center
 ---
 
-# Jagged Intelligence
+# "Jagged" Intelligence
 
-AI capabilities today are jagged — users experience both powerful peaks and disappointing troughs.
+AI capabilities are fantastic in some areas, and terrible in others, in strange ways we don't expect. This often leads to mixed experiences when using AI.
 
 <JaggedIntelligence :peaks="10" />
-
-- The jagged blue line represents real user experiences with AI today
-- The gray line shows a user's baseline without AI
-- The dashed green line represents the improved average with better tooling and practices
