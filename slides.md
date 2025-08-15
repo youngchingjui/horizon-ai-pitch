@@ -49,10 +49,6 @@ src: ./slides/08-candidate-pilot-backlog.md
 ---
 
 ---
-src: ./slides/09-tooling-strategy.md
----
-
----
 src: ./slides/10-governance-risk-change-mgmt.md
 ---
 
