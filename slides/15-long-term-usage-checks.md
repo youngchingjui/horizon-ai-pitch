@@ -4,6 +4,10 @@
 
 Sustained adoption matters more than short‑term speedups. We keep measurement light‑touch and focused on signals that are easy to capture.
 
+## Scope
+
+Check‑ins post‑handoff; review usage reports, run a 2‑minute pulse survey, and the "remove it?" signal test; provide a short retention brief with recommendations.
+
 ## What we check (+1w, +1m, +1q)
 
 • Usage: WAU and events/user for shipped templates/agents by function.
@@ -20,3 +24,7 @@ Sustained adoption matters more than short‑term speedups. We keep measurement 
 ## Commercials
 
 Flat add‑on ($3k–$7k) or outcome‑tied option: $30k for 12 weeks + $5k success bonus if sustained usage thresholds are met at the agreed check‑in(s).
+
+## Client time ask (per week)
+
+Function lead 1–2h, Champion 2–3h, ICs 30–60m, Project Lead 30m.
