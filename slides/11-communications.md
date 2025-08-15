@@ -3,7 +3,7 @@
 Small, predictable touchpoints that keep momentum and visibility high.
 
 <div style="font-size: 12px; margin-bottom: 8px;">
-  Legend: <span style="font-weight:600;">K</span> = Kickoff (Mon) · <span style="font-weight:600;">W</span> = Weekly report from Qing (Fri) · <span style="font-weight:600;">E</span> = Executive update (end of month) · <span style="font-weight:600;">1:1</span> = Department head / AI Champion check‑ins
+  Legend: <span style="font-weight:600;">K</span> = Kickoff (Mon) · <span style="font-weight:600;">W</span> = Weekly report from Ching (Fri) · <span style="font-weight:600;">E</span> = Executive update (end of month) · <span style="font-weight:600;">1:1</span> = Department head / AI Champion check‑ins
 </div>
 
 <table style="width:100%; border-collapse: collapse; font-size: 14px;">
@@ -41,7 +41,7 @@ Small, predictable touchpoints that keep momentum and visibility high.
       <td style="border-top:1px solid #eee; text-align:center;">—</td>
     </tr>
     <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Weekly report from Qing (Fri)</td>
+      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Weekly report from Ching (Fri)</td>
       <td style="border-top:1px solid #eee; text-align:center;">W</td>
       <td style="border-top:1px solid #eee; text-align:center;">W</td>
       <td style="border-top:1px solid #eee; text-align:center;">W</td>
