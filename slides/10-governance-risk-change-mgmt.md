@@ -14,4 +14,5 @@ Spot‑check 5% of AI‑assisted outputs; failure → revert & fix template.
 
 ## Change mgmt
 
-ADKAR lens—awareness (Amanda's kickoff), desire (quick wins), knowledge/ability (labs + clinics), reinforcement (leaderboard, recognition).
+ADKAR lens—awareness (kickoff), desire (quick wins), knowledge/ability (labs + clinics), reinforcement (leaderboard, recognition).
+

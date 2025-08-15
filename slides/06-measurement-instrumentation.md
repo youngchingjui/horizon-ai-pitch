@@ -13,7 +13,7 @@
 
 • **Summary**: what we did this week; shipped improvements and experiments.
 • **Usage metrics**: WAU, events per user, +1w/+1m retention, quality sampling scores, funnel/support deltas.
-• **Highlights**: Top 5 wins with links or short clips for Amanda’s update.
+• **Highlights**: Top 5 wins with links or short clips.
 • **Blockers & risks**: issues observed and asks for help.
 • **Next week**: priorities and planned ships.
 • **Cumulative impact**: running totals and open actions.
