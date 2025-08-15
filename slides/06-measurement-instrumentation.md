@@ -12,5 +12,6 @@
 ## Dashboards
 
 • Function KPIs (tiles) + adoption/retention cohort chart + list of shipped assets.
-• A weekly Top 5 Wins tile (with short Loom clips) for Amanda's updates.
+• A weekly Top 5 Wins tile (with short Loom clips) for stakeholder updates.
 • Simple check‑in view highlighting +1w/+1m/+1q usage and quality trends.
+
