@@ -1,8 +1,8 @@
 ---
-theme: mokkapps
+theme: seriph
 ---
 
-# AI-First China Lighthouse
+# Horizon (AI)
 
 ---
 src: ./slides/01-executive-summary.md
