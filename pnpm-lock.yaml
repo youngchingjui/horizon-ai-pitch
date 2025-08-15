@@ -17,6 +17,9 @@ importers:
       '@slidev/theme-seriph':
         specifier: latest
         version: 0.25.0
+      roughjs:
+        specifier: ^4.5.2
+        version: 4.6.6
       slidev-theme-mokkapps:
         specifier: ^1.3.2
         version: 1.3.2
