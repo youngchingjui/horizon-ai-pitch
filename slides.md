@@ -1,7 +1,7 @@
 ---
 theme: seriph
-background: ./public/images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
-class: no-accent
+background: ./images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
+# class: no-accent
 ---
 
 # Horizon (AI)
