@@ -1,3 +1,7 @@
+---
+theme: mokkapps
+---
+
 # AI-First China Lighthouse
 
 ---
