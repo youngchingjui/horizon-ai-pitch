@@ -9,8 +9,10 @@
 • **Signal test**: "Can we remove this tool?" litmus with Champions; objections logged as success signal.
 • **Optional**: 2‑minute pulse survey on perceived time saved and confidence (no stopwatch studies).
 
-## Dashboards
+## Reporting (not dashboards)
 
-• Function KPIs (tiles) + adoption/retention cohort chart + list of shipped assets.
-• A weekly Top 5 Wins tile (with short Loom clips) for Amanda's updates.
-• Simple check‑in view highlighting +1w/+1m/+1q usage and quality trends.
+• Weekly project report with wins, blockers, decisions, and next week plan.
+• Simple usage snapshot for active pilots: WAU, events/user, and notable adoption signals.
+• End‑of‑month executive brief highlighting progress and usage signals.
+• No dashboards; focus on concise, decision‑ready updates.
+

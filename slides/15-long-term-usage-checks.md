@@ -13,10 +13,11 @@ Sustained adoption matters more than short‑term speedups. We keep measurement 
 
 ## How it works
 
-• We enable telemetry and dashboards during the 12‑week program.
+• We enable light telemetry and simple usage snapshots during the 12‑week program.
 • Post‑handoff, we run quick check‑ins and share a one‑page retention brief per window.
 • Findings inform the rollout roadmap and playbook updates.
 
 ## Commercials
 
 Flat add‑on ($3k–$7k) or outcome‑tied option: $30k for 12 weeks + $5k success bonus if sustained usage thresholds are met at the agreed check‑in(s).
+
