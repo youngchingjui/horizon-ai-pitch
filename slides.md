@@ -69,9 +69,14 @@ src: ./slides/14-effort-commercials.md
 ---
 
 ---
-src: ./slides/15-what-i-need-from-amanda.md
+src: ./slides/15-long-term-usage-checks.md
 ---
 
+---
+src: ./slides/16-draft-email.md
+---
+
+---
 src: ./slides/17-risks-mitigations.md
 ---
 

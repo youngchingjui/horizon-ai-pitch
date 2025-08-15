@@ -3,7 +3,7 @@
 ## Phase 1 – Discover & Baseline (Weeks 1–2)
 
 • Intake workshops per function (60–90m each) to map top workflows and pain points.
-• Instrument baselines: time studies on 2–3 workflows per function; export current funnel/CS metrics; capture macros/templates in use.
+• Instrument baselines: pull existing system metrics (funnel/CS/ops), capture current macros/templates, and define lightweight telemetry; optional pulse survey for perceived time saved. No stopwatch time studies (to reduce burden/cost).
 • Select 10 pilot candidates using an Impact × Feasibility scorecard.
 • **Deliverable**: Pilot Backlog v1, Measurement Plan, AI Policy & Guardrails (2‑page).
 
@@ -18,5 +18,11 @@
 
 • Productionize best pilots (target 5–7), add monitoring and fallback SOPs.
 • Expand to adjacent workflows; create Run Books and Champion Playbooks.
-• Build Adoption Dashboard (usage, time saved, quality scores).
+• Build Adoption Dashboard (usage, quality scores, funnel/support KPIs).
 • **Deliverable**: AI Wins Digest (Weeks 8 & 12), Final Report, Roadmap for global rollout.
+
+## Optional – Long‑term usage validation (+1w, +1m, +1q)
+
+• Quick check‑ins after the 12‑week program: review usage dashboards and run a 2‑minute pulse survey.
+• Run a "can we remove this tool?" litmus test with Champions; track objections as a success signal.
+• Share a brief retention report and recommendations; trigger outcome‑tied bonus if sustained usage is confirmed.

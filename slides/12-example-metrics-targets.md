@@ -19,3 +19,9 @@
 ## Support
 
 −20% first response time; +10–15% deflection on top 20 FAQs.
+
+## Sustained usage (post‑handoff)
+
+• WAU ≥ 60% of trained users at +1 month; ≥ 45–50% at +1 quarter (by workflow/tool).
+• "Remove it?" test: ≥ 70% of Champions/users object to deprecating high‑value tools.
+• Quality holds: rubric average within 5% of Week‑12 baseline at +1 month and +1 quarter.
