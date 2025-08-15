@@ -61,10 +61,6 @@ src: ./slides/11-communications.md
 ---
 
 ---
-src: ./slides/12-example-metrics-targets.md
----
-
----
 src: ./slides/13-reporting-artifacts.md
 ---
 
