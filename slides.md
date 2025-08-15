@@ -49,19 +49,11 @@ src: ./slides/08-candidate-pilot-backlog.md
 ---
 
 ---
-src: ./slides/09-tooling-strategy.md
----
-
----
 src: ./slides/10-governance-risk-change-mgmt.md
 ---
 
 ---
 src: ./slides/11-communications.md
----
-
----
-src: ./slides/12-example-metrics-targets.md
 ---
 
 ---
@@ -74,10 +66,6 @@ src: ./slides/14-effort-commercials.md
 
 ---
 src: ./slides/15-long-term-usage-checks.md
----
-
----
-src: ./slides/16-draft-email.md
 ---
 
 ---

@@ -1,14 +1,8 @@
-# Operating Model & Roles (RACI)
+# Operating Model & Required Resources
 
-## Roles
+## Required resources
 
-• **Sponsor**: Amanda (sets goals, unblocks resources, hosts monthly exec update).
-• **Engagement Lead / AI Consultant**: Ching (designs curriculum, runs discovery, builds pilots, defines metrics, owns Friday demos).
-• **Function Leads** (Sales, Marketing, CSM, Ops, Support): nominate 1 AI Champion each; provide processes, sample data, and sign‑off.
-• **IT/Data/Legal**: tool access, SSO, data policy review, retention.
+• AI Consultant: Ching — designs curriculum, runs discovery, builds pilots, defines metrics, and hosts Friday demos.
+• Functional Leads — one per department (Sales, Marketing, CSM, Ops, Support) serving as AI Champions; provide processes, sample data, and sign‑off.
+• IT / Data / Legal — provision tools and access (SSO), review data policy and retention, ensure compliance.
 
-## Cadence
-
-• **Weekly**: Mon planning (30m), Tue/Thu build, Fri demo (30–45m).
-• **Biweekly**: Champion Clinic (90m), adoption/metrics review (30m).
-• **Monthly**: Exec Readout (30m) led by Amanda.
