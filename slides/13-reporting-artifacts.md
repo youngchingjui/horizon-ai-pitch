@@ -18,4 +18,3 @@
 
 • Final summary report and a prioritized backlog for the next 90 days.
 • If opted in: +1m and +1q follow‑up briefs with usage/quality retention and recommendations.
-

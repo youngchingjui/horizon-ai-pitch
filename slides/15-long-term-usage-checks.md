@@ -20,4 +20,3 @@ Sustained adoption matters more than short‑term speedups. We keep measurement 
 ## Commercials
 
 Flat add‑on ($3k–$7k) or outcome‑tied option: $30k for 12 weeks + $5k success bonus if sustained usage thresholds are met at the agreed check‑in(s).
-

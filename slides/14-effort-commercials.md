@@ -36,8 +36,7 @@
 
 • <strong>Scope</strong>: check‑ins post‑handoff; review usage reports, run 2‑minute pulse survey, and "remove it?" signal test; short retention brief with recommendations.
 • <strong>Commercials</strong>: choose one of:
-  – Flat add‑on: $3k–$7k depending on # of workflows/functions.
-  – Outcome‑tied option: $30k for the first 12 weeks, plus a $5k success bonus if tools are still in active use at the agreed check‑in (e.g., +1 month and +1 quarter) by defined thresholds.
+– Flat add‑on: $3k–$7k depending on # of workflows/functions.
+– Outcome‑tied option: $30k for the first 12 weeks, plus a $5k success bonus if tools are still in active use at the agreed check‑in (e.g., +1 month and +1 quarter) by defined thresholds.
 
 <strong>Client time ask (per week)</strong>: Function lead 1–2h, Champion 2–3h, ICs 30–60m, Project Lead 30m.
-

@@ -45,4 +45,3 @@
 - Quick check‑ins after the 12‑week program: review usage reports and run a 2‑minute pulse survey.
 - Run a "can we remove this tool?" litmus test with Champions; track objections as a success signal.
 - Share a brief retention report and recommendations; trigger outcome‑tied bonus if sustained usage is confirmed.
-

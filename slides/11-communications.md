@@ -94,4 +94,3 @@ Small, predictable touchpoints that keep momentum and visibility high.
 - Weekly Friday report from Ching goes to project team; include wins, blockers, next week plan.
 - End‑of‑month executive update (Weeks 4/8/12) with Ching + broader leadership for visibility and decisions.
 - 1:1s staggered with department heads and AI Champions to unblock pilots and drive adoption.
-
