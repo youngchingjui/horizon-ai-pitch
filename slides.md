@@ -1,8 +1,15 @@
 ---
 theme: seriph
+background: ./public/images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 ---
 
 # Horizon (AI)
+
+<div style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 20px; z-index: 1000;">
+  <img src="https://joinhorizons.com/wp-content/uploads/2024/04/Logo-Horizons-Dark-Transparent-2-1.png" alt="Horizons logo" width="120" />
+  <!-- Space for Young and AI logo -->
+  <div style="width: 120px; height: 40px; background: transparent;"></div>
+</div>
 
 ---
 src: ./slides/01-executive-summary.md
@@ -65,11 +72,6 @@ src: ./slides/14-effort-commercials.md
 src: ./slides/15-what-i-need-from-amanda.md
 ---
 
----
-src: ./slides/16-draft-email.md
----
-
----
 src: ./slides/17-risks-mitigations.md
 ---
 
