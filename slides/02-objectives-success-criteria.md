@@ -25,7 +25,7 @@
 <div>
   <p class="text-xl font-bold mb-2">Executive‑level win</p>
   <ul class="list-disc pl-5 space-y-1">
-    <li>Monthly "AI Wins" digest and a 30‑minute show‑and‑tell for the global LT by Week 6 highlighting China's results (executive sponsor as MC).</li>
+    <li>Monthly "AI Wins" digest and a 30‑minute show‑and‑tell for the global LT by Week 6 highlighting China's results.</li>
   </ul>
 </div>
 

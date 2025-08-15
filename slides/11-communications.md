@@ -91,7 +91,7 @@ Small, predictable touchpoints that keep momentum and visibility high.
 ## Notes
 
 - Kickoff on Monday of Week 1 to set goals, roles, and norms.
-- Weekly Friday report from Qing goes to project team plus the executive sponsor; include wins, blockers, next week plan.
-- End‑of‑month executive update (Weeks 4/8/12) with Qing + broader leadership for visibility and decisions.
+- Weekly Friday report from Ching goes to project team; include wins, blockers, next week plan.
+- End‑of‑month executive update (Weeks 4/8/12) with Ching + broader leadership for visibility and decisions.
 - 1:1s staggered with department heads and AI Champions to unblock pilots and drive adoption.
 
