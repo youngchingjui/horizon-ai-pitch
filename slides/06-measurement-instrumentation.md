@@ -9,10 +9,15 @@
 • **Signal test**: "Can we remove this tool?" litmus with Champions; objections logged as success signal.
 • **Optional**: 2‑minute pulse survey on perceived time saved and confidence (no stopwatch studies).
 
-## Reporting (not dashboards)
+## Weekly usage report (Fridays)
 
-• Weekly project report with wins, blockers, decisions, and next week plan.
-• Simple usage snapshot for active pilots: WAU, events/user, and notable adoption signals.
-• End‑of‑month executive brief highlighting progress and usage signals.
 • No dashboards; focus on concise, decision‑ready updates.
+- Simple usage snapshots
+• **Summary**: wins, decisions, shipped improvements and experiments.
+• **Usage metrics**: WAU, events per user, +1w/+1m retention, quality sampling scores, funnel/support deltas.
+• **Highlights**: Top 5 wins with links or short clips.
+• **Blockers & risks**: issues observed and asks for help.
+• **Next week**: priorities and planned ships.
+• **Cumulative impact**: running totals and open actions.
+• Month‑end: executive brief highlighting progress and usage signals.
 

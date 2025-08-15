@@ -4,7 +4,7 @@
 
 • Weekly: Mon planning (30m), Tue/Thu build, Fri demo (30–45m).
 • Biweekly: Champion Clinic (90m), adoption/metrics review (30m).
-• Monthly: Exec Readout (30m) led by Amanda.
+• Monthly: Exec Readout (30m).
 
 ## Phase 1 – Discover & Baseline (Weeks 1–2)
 
