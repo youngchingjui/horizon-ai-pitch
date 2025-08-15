@@ -1,5 +1,11 @@
 # Workplan & Timeline (12 weeks)
 
+## Cadence
+
+• Weekly: Mon planning (30m), Tue/Thu build, Fri demo (30–45m).
+• Biweekly: Champion Clinic (90m), adoption/metrics review (30m).
+• Monthly: Exec Readout (30m) led by Amanda.
+
 ## Phase 1 – Discover & Baseline (Weeks 1–2)
 
 • Intake workshops per function (60–90m each) to map top workflows and pain points.
@@ -26,3 +32,4 @@
 • Quick check‑ins after the 12‑week program: review usage dashboards and run a 2‑minute pulse survey.
 • Run a "can we remove this tool?" litmus test with Champions; track objections as a success signal.
 • Share a brief retention report and recommendations; trigger outcome‑tied bonus if sustained usage is confirmed.
+
