@@ -9,9 +9,12 @@
 • **Signal test**: "Can we remove this tool?" litmus with Champions; objections logged as success signal.
 • **Optional**: 2‑minute pulse survey on perceived time saved and confidence (no stopwatch studies).
 
-## Dashboards
+## Weekly usage report (Fridays)
 
-• Function KPIs (tiles) + adoption/retention cohort chart + list of shipped assets.
-• A weekly Top 5 Wins tile (with short Loom clips) for stakeholder updates.
-• Simple check‑in view highlighting +1w/+1m/+1q usage and quality trends.
+• **Summary**: what we did this week; shipped improvements and experiments.
+• **Usage metrics**: WAU, events per user, +1w/+1m retention, quality sampling scores, funnel/support deltas.
+• **Highlights**: Top 5 wins with links or short clips.
+• **Blockers & risks**: issues observed and asks for help.
+• **Next week**: priorities and planned ships.
+• **Cumulative impact**: running totals and open actions.
 
