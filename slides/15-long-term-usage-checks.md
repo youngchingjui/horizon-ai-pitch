@@ -13,7 +13,7 @@ Sustained adoption matters more than short‑term speedups. We keep measurement 
 
 ## How it works
 
-• We enable telemetry and dashboards during the 12‑week program.
+• We enable light telemetry and simple usage snapshots during the 12‑week program.
 • Post‑handoff, we run quick check‑ins and share a one‑page retention brief per window.
 • Findings inform the rollout roadmap and playbook updates.
 

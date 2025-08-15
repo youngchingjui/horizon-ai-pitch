@@ -1,4 +1,3 @@
 # Executive Summary — "AI‑First China Lighthouse"
 
 We'll run a 12‑week change‑management program across Sales, Marketing, CSM, Operations, and Support in China. The program combines short, high‑leverage training with tightly scoped pilots, measured against clear baseline metrics. Every Friday we demo what shipped. By Week 6 we will have at least 5 productionized wins and a public "AI Wins" digest that can be shared with the global leadership team. By Week 12 we hand over playbooks, dashboards, and an internal "AI Champion" network so China can scale independently showcase wins to the global team.
-
