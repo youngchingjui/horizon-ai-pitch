@@ -3,7 +3,7 @@
 <small>The lived experience of AI is jagged: moments of brilliance and moments of disappointment. Our goal is to raise and stabilize outcomes above the human-only baseline.</small>
 
 <div style="margin-top: 16px; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);">
-  <svg viewBox="0 0 800 420" width="100%" height="auto" role="img" aria-label="Infographic showing jagged AI experiences, human baseline, and improved Human+AI trajectory">
+  <svg viewBox="0 0 800 420" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Infographic showing jagged AI experiences, human baseline, and improved Human+AI trajectory">
     <defs>
       <linearGradient id="grad-ai" x1="0" x2="0" y1="0" y2="1">
         <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.15"/>
