@@ -5,8 +5,16 @@
 .slidev-page:not(.no-accent) .slidev-layout {
   /* two soft blobs: top-right and bottom-left */
   background-image:
-    radial-gradient(600px 240px at 110% -10%, rgba(15, 23, 42, 0.06), transparent 60%),
-    radial-gradient(520px 220px at -10% 110%, rgba(15, 23, 42, 0.04), transparent 70%);
+    radial-gradient(
+      600px 240px at 110% -10%,
+      rgba(15, 23, 42, 0.06),
+      transparent 60%
+    ),
+    radial-gradient(
+      520px 220px at -10% 110%,
+      rgba(15, 23, 42, 0.04),
+      transparent 70%
+    );
   background-repeat: no-repeat;
   background-size: auto;
   background-attachment: local;
@@ -16,4 +24,3 @@
 .no-accent .slidev-layout {
   background-image: none !important;
 }
-
