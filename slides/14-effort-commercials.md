@@ -1,30 +1,43 @@
-# Effort & Commercials (pick a package; fee placeholders)
+# Commercials
 
-_Replace rates with your pricing. These are hour ranges that map cleanly to scope._
+<small class="opacity-70">Pick a package</small>
 
-## Starter (8 weeks) – focused quick wins
-
-• **Scope**: 6 pilots → 3 productionized, AI Core + 2 Function Labs, dashboard lite.
-• **Effort**: ~90–120 consulting hours.
-• **Fee**: your rate × hours (e.g., at $200/h → $18–24k).
-
-## Standard (12 weeks) – recommended
-
-• **Scope**: 10 pilots → 5–7 productionized, AI Core + 5 Function Labs, full dashboard, Champions program.
-• **Effort**: ~180–240 hours.
-• **Fee**: your rate × hours (e.g., $36–48k @ $200/h).
-
-## Plus (12 weeks) – deeper automation/integrations
-
-• **Scope**: everything in Standard + 2 light integrations (APIs/automations), extra change‑mgmt support.
-• **Effort**: ~260–320 hours.
-• **Fee**: your rate × hours (e.g., $52–64k @ $200/h).
+<div class="grid grid-cols-3 gap-6 mt-4">
+  <div>
+    <h3>Starter (8 weeks) – focused quick wins</h3>
+    <div class="text-xl font-bold mt-1">$20,000</div>
+    <p class="mt-2">
+      • <strong>Scope</strong>: 6 pilots → 3 productionized, AI Core + 2 Function Labs, dashboard lite.<br/>
+      • <strong>Effort</strong>: ~90–120 consulting hours.<br/>
+      • <strong>Fee</strong>: $20,000.
+    </p>
+  </div>
+  <div>
+    <h3>Standard (12 weeks) – recommended</h3>
+    <div class="text-xl font-bold mt-1">$30,000</div>
+    <p class="mt-2">
+      • <strong>Scope</strong>: 10 pilots → 5–7 productionized, AI Core + 5 Function Labs, full dashboard, Champions program.<br/>
+      • <strong>Effort</strong>: ~180–240 hours.<br/>
+      • <strong>Fee</strong>: $30,000.
+    </p>
+  </div>
+  <div>
+    <h3>Plus (12 weeks) – deeper automation/integrations</h3>
+    <div class="text-xl font-bold mt-1">≈ $40,000</div>
+    <p class="mt-2">
+      • <strong>Scope</strong>: everything in Standard + 2 light integrations (APIs/automations), extra change‑mgmt support.<br/>
+      • <strong>Effort</strong>: ~260–320 hours.<br/>
+      • <strong>Fee</strong>: about $40,000.
+    </p>
+  </div>
+</div>
 
 ## Optional add‑on – Long‑term usage checks (+1w, +1m, +1q)
 
-• **Scope**: check‑ins post‑handoff; review dashboards, run 2‑minute pulse survey, and "remove it?" signal test; short retention brief with recommendations.
-• **Commercials**: choose one of:
+• <strong>Scope</strong>: check‑ins post‑handoff; review dashboards, run 2‑minute pulse survey, and "remove it?" signal test; short retention brief with recommendations.
+• <strong>Commercials</strong>: choose one of:
   – Flat add‑on: $3k–$7k depending on # of workflows/functions.
   – Outcome‑tied option: $30k for the first 12 weeks, plus a $5k success bonus if tools are still in active use at the agreed check‑in (e.g., +1 month and +1 quarter) by defined thresholds.
 
-**Client time ask (per week)**: Function lead 1–2h, Champion 2–3h, ICs 30–60m, Amanda 30m.
+<strong>Client time ask (per week)</strong>: Function lead 1–2h, Champion 2–3h, ICs 30–60m, Amanda 30m.
+
