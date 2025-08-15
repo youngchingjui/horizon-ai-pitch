@@ -12,6 +12,10 @@ background: ./public/images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 </div>
 
 ---
+src: ./slides/00-introduction-ching-youngin-ai.md
+---
+
+---
 src: ./slides/01-executive-summary.md
 hide: false
 ---
@@ -81,3 +85,4 @@ src: ./slides/17-risks-mitigations.md
 ---
 
 ---
+
