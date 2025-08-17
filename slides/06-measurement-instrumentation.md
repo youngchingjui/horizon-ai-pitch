@@ -3,29 +3,25 @@ layout: two-cols
 ---
 
 ::header::
-# Measurement & Instrumentation
+# Measurement
 
 ::default::
 
-## How we measure (low‑overhead)
+## How we will measure (kept simple)
 
-- **Sustained adoption**: weekly active users of templates/agents at +1 week, +1 month, +1 quarter; events per user; completion of AI Core.
-- **Quality**: manager review rubric (e.g., accuracy, tone, completeness) on sampled outputs.
-- **Funnel**: CRM fields (reply rate, meetings booked, cycle time) where applicable.
-- **Support**: AHT, FRT, deflection %, reopen rate.
-- **Signal test**: "Can we remove this tool?" litmus with Champions; objections logged as success signal.
-- **Optional**: 2‑minute pulse survey on perceived time saved and confidence (no stopwatch studies).
+- Signal test: We will announce in advance that access to a tool will be temporarily turned off at a set time. If people ask for access to be restored, that is a strong positive signal that the tool is useful.
+- Usage inside the tool: We will review each tool’s dashboard or application programming interface for basic usage. Examples include number of runs, number of workflows used, number of active users, tokens consumed (when available), and simple trends over time.
+
+No complex frameworks or jargon. Acronyms are spelled out.
 
 ::right::
 
-## Weekly usage report (Fridays)
+## Weekly update (every Friday)
 
-- No dashboards; focus on concise, decision‑ready updates.
-- Simple usage snapshots
-- **Summary**: wins, decisions, shipped improvements and experiments.
-- **Usage metrics**: WAU, events per user, +1w/+1m retention, quality sampling scores, funnel/support deltas.
-- **Highlights**: Top 5 wins with links or short clips.
-- **Blockers & risks**: issues observed and asks for help.
-- **Next week**: priorities and planned ships.
-- **Cumulative impact**: running totals and open actions.
-- Month‑end: executive brief highlighting progress and usage signals.
+- A short note for each tool with:
+  - Usage snapshot and trend
+  - Any requests to restore access from the signal test
+  - Highlights and changes shipped
+  - Issues or blockers and any asks
+- At month end, a simple summary across tools highlighting progress and usage signals.
+
