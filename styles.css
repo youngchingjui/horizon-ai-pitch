@@ -30,6 +30,13 @@
   /* Primary accent used across custom elements */
   --horizon-accent: #2563eb; /* blue-600 */
   --horizon-accent-rgb: 37, 99, 235;
+
+  /* ADKAR palette */
+  --adkar-awareness: #f59e0b;     /* amber-500 */
+  --adkar-desire: #ef4444;        /* red-500 */
+  --adkar-knowledge: #6366f1;     /* indigo-500 */
+  --adkar-ability: #10b981;       /* emerald-500 */
+  --adkar-reinforcement: #06b6d4; /* cyan-500 */
 }
 
 /* Emphasize key words inline with a consistent accent */
@@ -47,5 +54,63 @@
     rgba(var(--horizon-accent-rgb), 0.22) 0
   );
   border-radius: 2px;
+}
+
+/* ADKAR visual key + mapping */
+.adkar-key {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+
+.adkar-key li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+}
+
+.adkar-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 9999px;
+  display: inline-block;
+  box-shadow: 0 0 0 2px rgba(0,0,0,0.06) inset;
+}
+
+.adkar-dot.awareness { background: var(--adkar-awareness); }
+.adkar-dot.desire { background: var(--adkar-desire); }
+.adkar-dot.knowledge { background: var(--adkar-knowledge); }
+.adkar-dot.ability { background: var(--adkar-ability); }
+.adkar-dot.reinforcement { background: var(--adkar-reinforcement); }
+
+.adkar-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+
+.adkar-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 8px;
+  border-radius: 8px;
+  background: rgba(15, 23, 42, 0.03);
+}
+
+.adkar-list .item {
+  font-weight: 500;
+}
+
+.adkar-dots {
+  display: flex;
+  gap: 8px;
 }
 

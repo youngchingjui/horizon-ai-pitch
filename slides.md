@@ -49,6 +49,10 @@ src: ./slides/10-governance-risk-change-mgmt.md
 ---
 
 ---
+src: ./slides/10-change-mgmt-adkar-redesign.md
+---
+
+---
 src: ./slides/11-communications.md
 ---
 
