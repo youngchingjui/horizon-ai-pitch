@@ -3,7 +3,7 @@ theme: seriph
 background: ./images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 ---
 
-# Horizon (AI)
+# Horizons (AI)
 
 Change management and AI upskilling proposal for Horizon employees
 
@@ -12,8 +12,8 @@ August 2028
 For internal discussion only.
 
 <div style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); display: flex; align-items: flex-end; gap: 20px; z-index: 1000;">
-  <img src="./images/Logo-Horizons-Dark-Transparent-2-1.png" alt="Horizons logo" style="width: 140px; height: auto;" />
-  <img src="./images/young--ai-high-resolution-logo-transparent.png" alt="Young & AI logo" style="width: 140px; height: auto;" />
+  <img src="./images/logos/Logo-Horizons-Dark-Transparent-2-1.png" alt="Horizons logo" style="width: 140px; height: auto;" />
+  <img src="./images/logos/young--ai-high-resolution-logo-transparent.png" alt="Young & AI logo" style="width: 140px; height: auto;" />
 </div>
 
 ---
