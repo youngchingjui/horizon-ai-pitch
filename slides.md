@@ -5,10 +5,9 @@ background: ./images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 
 # Upskill Horizon Workforce with AI
 
-<div style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 20px; z-index: 1000;">
-  <img src="https://joinhorizons.com/wp-content/uploads/2024/04/Logo-Horizons-Dark-Transparent-2-1.png" alt="Horizons logo" width="120" />
-  <!-- Space for Young and AI logo -->
-  <div style="width: 120px; height: 40px; background: transparent;"></div>
+<div style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); display: flex; align-items: flex-end; gap: 20px; z-index: 1000;">
+  <img src="./images/Logo-Horizons-Dark-Transparent-2-1.png" alt="Horizons logo" style="width: 140px; height: auto;" />
+  <img src="./images/young--ai-high-resolution-logo-transparent.png" alt="Young & AI logo" style="width: 140px; height: auto;" />
 </div>
 
 ---
