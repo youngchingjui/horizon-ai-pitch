@@ -9,7 +9,8 @@
 ## Phase 1 – Discover & Baseline (Weeks 1–2)
 
 - Intake workshops per function (60–90m each) to map top workflows and pain points.
-- At least five (5) 60‑minute stakeholder interviews to document current ("as‑is") business flows; synthesize notes and opportunities.
+- One 60‑minute interview per department lead (Sales, Marketing, CSM, Ops, Support) with Ching to walk through current processes, dependencies, and where AI could help; schedule at least 1 hour per department.
+- Additional stakeholder interviews as needed (≥5 total) to document current ("as‑is") business flows; synthesize notes and opportunities.
 - Instrument baselines: pull existing system metrics (funnel/CS/ops), capture current macros/templates, and define lightweight telemetry; optional pulse survey for perceived time saved. No stopwatch time studies (to reduce burden/cost).
 - Select 10 pilot candidates through facilitated impact × feasibility prioritization (no formal scorecard deliverable).
 - **Deliverable**: Pilot Backlog v1, Measurement Plan, AI Policy & Guardrails (2‑page).
@@ -45,3 +46,4 @@
 - Quick check‑ins after the 12‑week program: review usage reports and run a 2‑minute pulse survey.
 - Run a "can we remove this tool?" litmus test with Champions; track objections as a success signal.
 - Share a brief retention report and recommendations; trigger outcome‑tied bonus if sustained usage is confirmed.
+
