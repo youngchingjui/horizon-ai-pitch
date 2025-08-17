@@ -28,3 +28,24 @@ We are a leading AI enterprise developer. We build AI solutions that ship, stick
 - Experience ranges from ML models for trend detection to automation & copilots
 - Strong focus on MLOps, data pipelines, governance, and measurable ROI
 
+#### Selected clients
+
+<LogoGrid :logos="clientLogos" :minSize="90" />
+
+<script setup lang="ts">
+const clientLogos = [
+  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
+  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
+  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
+  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
+  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
+  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
+  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
+  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
+  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
+  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
+  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
+  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
+]
+</script>
+
