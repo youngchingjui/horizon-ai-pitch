@@ -7,8 +7,8 @@ layout: two-cols
 
 ::default::
 
-### Ching
-Founder & AI Consultant — Young & AI
+### Ching Jui Young
+Founder & AI Developer
 
 - Ex-McKinsey + PwC consultant
 - Self-taught developer
