@@ -1,161 +1,113 @@
-# 12-Week Program Calendar (Department Sprints)
+# Timeline Overview (12 weeks)
 
-Small, predictable two-week sprints per department with built-in buffer and overlap for speed and risk control.
+Small, predictable two-week sprints per department, plus a light follow-on review week.
 
-<div style="font-size: 12px; margin-bottom: 8px;">
-  Legend: <span style="font-weight:600;">I</span> = Interview (Mon, 60m) · <span style="font-weight:600;">Dev</span> = Build & prompt tuning · <span style="font-weight:600;">WS</span> = Workshop (Thu, week 2) · <span style="font-weight:600;">R</span> = Report (Fri, week 2)
+<div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px;">
+  <span style="display:inline-flex; align-items:center; gap:6px;">
+    <span style="width:14px; height:10px; display:inline-block; background: var(--horizon-accent); border-radius: 2px;"></span>
+    <span>Main work (2 weeks)</span>
+  </span>
+  <span style="display:inline-flex; align-items:center; gap:6px;">
+    <span style="width:14px; height:10px; display:inline-block; background: rgba(var(--horizon-accent-rgb), 0.22); border: 1px solid rgba(0,0,0,0.06); border-radius: 2px;"></span>
+    <span>Follow-on review (1 week)</span>
+  </span>
 </div>
 
 <table style="width:100%; border-collapse: collapse; font-size: 14px;">
   <thead>
     <tr>
-      <th style="border-bottom:1px solid #ccc; text-align:left; padding:6px 8px;">Department / Stream</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W1</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W2</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W3</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W4</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W5</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W6</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W7</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W8</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W9</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W10</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W11</th>
-      <th style="border-bottom:1px solid #ccc; text-align:center; padding:6px 0;">W12</th>
+      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;">Department / Stream</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #ccc;" colspan="12">Weeks</th>
+    </tr>
+    <tr>
+      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);"></th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">1</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">2</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">3</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">4</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">5</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">6</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">7</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">8</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">9</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">10</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">11</th>
+      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">12</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Sales</td>
-      <td style="border-top:1px solid #eee; text-align:center;">I + Dev</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Refine · WS · R</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Catch-ups</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Discovery</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Sales</td>
+      <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
+      <td colspan="2" style="border-top:1px solid #eee;"></td>
+      <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
+      <td colspan="7" style="border-top:1px solid #eee;"></td>
     </tr>
     <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Marketing</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">I + Dev</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Refine · WS · R</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Catch-ups</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Discovery</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Marketing</td>
+      <td colspan="2" style="border-top:1px solid #eee;"></td>
+      <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
+      <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
+      <td colspan="7" style="border-top:1px solid #eee;"></td>
     </tr>
     <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">CSM</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">I + Dev</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Refine · WS · R</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">CSM</td>
+      <td colspan="5" style="border-top:1px solid #eee;"></td>
+      <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
+      <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
+      <td colspan="4" style="border-top:1px solid #eee;"></td>
     </tr>
     <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Operations</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">I + Dev</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Refine · WS · R</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Operations</td>
+      <td colspan="7" style="border-top:1px solid #eee;"></td>
+      <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
+      <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
+      <td colspan="2" style="border-top:1px solid #eee;"></td>
     </tr>
     <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Support</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">I + Dev</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Refine · WS · R</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-    </tr>
-    <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Catch-up / Buffer</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Gap week · finish Sales & Marketing</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Light overlap with CSM</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Light overlap with Ops/Support</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Stabilize</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Discovery / extra builds</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-    </tr>
-    <tr>
-      <td style="border-top:1px solid #eee; padding:6px 8px; text-align:left; white-space:nowrap;">Wrap-up</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">—</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Adoption, polish</td>
-      <td style="border-top:1px solid #eee; text-align:center;">Final report</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Support</td>
+      <td colspan="8" style="border-top:1px solid #eee;"></td>
+      <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
+      <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
+      <td colspan="1" style="border-top:1px solid #eee;"></td>
     </tr>
   </tbody>
 </table>
 
-## Notes
-
-- Two weeks per department: Week 1 focuses on discovery and build; Week 2 on refine, workshop, and report.
-- First four weeks: two departments end-to-end (Sales → Marketing).
-- Week 5: stopgap to catch up remaining tasks from the first two departments.
-- Weeks 6–10: three departments on a staggered overlap (CSM → Ops → Support) to keep velocity while managing review cycles.
-- Remaining weeks: stabilize, adoption support, and final report.
-
 ---
 
-# Department Sprint Template (2 weeks)
+# Department Sprint Breakdown (2 weeks)
 
-## Week 1
-
-- Mon: Interview with department lead/AI Champion (60m) to walk through current workflows, systems, and improvement ideas.
-- Tue–Thu: Build workflows; fine-tune prompts; evaluate specialized AI tools for the domain; rapid shadow runs.
-- Fri: Share v1 with Champion, collect feedback, and refine.
-
-## Week 2
-
-- Mon–Wed: Share workflow with wider team, iterate, validate, and prep enablement assets (prompts, SOPs, checklists).
-- Thu: Audience-led Workshop for the department (Q&A, feedback, usage guidance).
-- Fri: Weekly usage summary and short report (what shipped, early usage, success signals).
+<table style="width:100%; border-collapse: collapse; font-size: 14px;">
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;">Week</th>
+      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Monday</th>
+      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Tuesday</th>
+      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Wednesday</th>
+      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Thursday</th>
+      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Friday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 1</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">1:1 interviews with dept lead / AI Champion (60m)</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Build workflows and prompts</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Tune, validate on real examples</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Shadow runs; prep share-out</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Share v1 with Champion; refine</td>
+    </tr>
+    <tr>
+      <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 2</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Share AI workflows with wider team</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Iterate with team feedback</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Validate, prep enablement assets</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Audience-led workshop (Q&A)</td>
+      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Weekly report (what shipped, usage, next)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -174,3 +126,4 @@ Small, predictable two-week sprints per department with built-in buffer and over
 - Workshop: Thursday of each sprint Week 2 (audience-led, Q&A, adoption blockers).
 - Report: Friday of each sprint Week 2 (brief, metrics snapshot, next steps).
 - Artifacts: Prompts, workflows, SOPs, Champion notes, short weekly report, final program report.
+
