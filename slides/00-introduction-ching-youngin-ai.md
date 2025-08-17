@@ -21,8 +21,9 @@ Founder & AI Consultant — Young & AI
 ::right::
 
 ### Young & AI
-We are a leading AI enterprise developer. We build AI solutions that ship, stick, and deliver business value.
+We are a leading AI enterprise developer. We build AI solutions that ship, stick, and deliver business value. We’re a small, senior team with an outsized impact — focused, fast, and relentlessly practical.
 
+- Small, focused team; outsized impact
 - Building AI solutions since 2018
 - Delivered projects across industries and company sizes
 - Experience ranges from ML models for trend detection to automation & copilots
