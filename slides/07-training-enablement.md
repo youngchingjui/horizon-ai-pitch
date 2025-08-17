@@ -17,3 +17,5 @@ _Content is shaped by real AI use cases and issues_
 - Cadence: bi‑weekly, 1 each department; recordings and notes shared.
 - Intake: lightweight form to submit topics in advance; walk‑ins welcome.
 
+::right::
+<img src="../images/marvin-meyer-SYTO3xs06fU-unsplash.jpg" alt="Workshop collaboration with laptops and phones on table" class="rounded shadow max-h-90 object-cover" />
