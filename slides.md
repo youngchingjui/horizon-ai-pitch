@@ -3,7 +3,7 @@ theme: seriph
 background: ./images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 ---
 
-# Horizon (AI)
+# Upskill Horizon Workforce with AI
 
 <div style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 20px; z-index: 1000;">
   <img src="https://joinhorizons.com/wp-content/uploads/2024/04/Logo-Horizons-Dark-Transparent-2-1.png" alt="Horizons logo" width="120" />
