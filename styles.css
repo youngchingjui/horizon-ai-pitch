@@ -24,3 +24,28 @@
 .no-accent .slidev-layout {
   background-image: none !important;
 }
+
+/* Thematic color helpers */
+:root {
+  /* Primary accent used across custom elements */
+  --horizon-accent: #2563eb; /* blue-600 */
+  --horizon-accent-rgb: 37, 99, 235;
+}
+
+/* Emphasize key words inline with a consistent accent */
+.keyword, .emph {
+  color: var(--horizon-accent);
+  font-weight: 700;
+}
+
+/* Optional: subtle highlighter effect */
+.keyword.highlight,
+.emph.highlight {
+  background: linear-gradient(
+    to bottom,
+    transparent 60%,
+    rgba(var(--horizon-accent-rgb), 0.22) 0
+  );
+  border-radius: 2px;
+}
+
