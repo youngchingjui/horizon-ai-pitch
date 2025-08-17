@@ -9,6 +9,8 @@ const props = withDefaults(
     baselineColor?: string;
     enhancedColor?: string;
     background?: string;
+    seed?: number; // make drawing deterministic across renders
+    showTitle?: boolean; // optionally render internal title
   }>(),
   {
     peaks: 12,
@@ -16,11 +18,22 @@ const props = withDefaults(
     baselineColor: "#6b7280", // gray-500
     enhancedColor: "#16a34a", // green-600
     background: "transparent",
+    seed: 42,
+    showTitle: true,
   }
 );
 
 const canvasRef = ref<HTMLCanvasElement | null>(null);
 let cleanup: (() => void) | null = null;
+
+// simple seeded PRNG (LCG)
+function makeRng(seed: number) {
+  let s = Math.imul(48271, (seed % 2147483647)) % 2147483647;
+  return function rand() {
+    s = (s * 48271) % 2147483647;
+    return (s - 1) / 2147483646;
+  };
+}
 
 function draw() {
   const canvas = canvasRef.value;
@@ -40,6 +53,7 @@ function draw() {
   canvas.style.height = height + "px";
 
   const ctx = canvas.getContext("2d")!;
+  ctx.setTransform(1, 0, 0, 1, 0, 0); // reset transform in case of redraws
   ctx.scale(dpr, dpr);
 
   // background
@@ -84,6 +98,9 @@ function draw() {
   ctx.fillStyle = props.enhancedColor;
   ctx.fillText("Human + AI (improved average)", left + 6, plusY - 12);
 
+  // seeded randomness for reproducible jagged line
+  const rand = makeRng(props.seed || 42);
+
   // generate jagged points representing AI experiences
   const n = Math.max(8, props.peaks);
   const pts: [number, number][] = [];
@@ -91,9 +108,9 @@ function draw() {
   for (let i = 0; i <= n; i++) {
     const t = i / n;
     const x = left + (right - left) * t;
-    // higher-frequency sin wave + randomness for a jaggier line
+    // higher-frequency sin wave + seeded randomness for a jaggier line
     const base = Math.sin(t * Math.PI * cycles);
-    const noise = (Math.random() - 0.5) * 0.9; // stronger noise
+    const noise = (rand() - 0.5) * 0.8; // moderate noise for readability
     const v = base * 0.95 + noise;
     const y = midY - v * (bottom - top) * 0.45;
     pts.push([x, y]);
@@ -106,8 +123,8 @@ function draw() {
     rc.line(x1, y1, x2, y2, {
       stroke: props.lineColor,
       strokeWidth: 2.5,
-      roughness: 1.3,
-      bowing: 1.6,
+      roughness: 1.1,
+      bowing: 1.3,
     });
   }
 
@@ -221,15 +238,17 @@ function draw() {
     );
   }
 
-  // title
-  ctx.fillStyle = "#111827";
-  ctx.font =
-    "600 18px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue, Arial";
-  ctx.fillText(
-    "Jagged Intelligence: Today's AI user experience",
-    left,
-    top - 6 + 8
-  );
+  if (props.showTitle) {
+    // title
+    ctx.fillStyle = "#111827";
+    ctx.font =
+      "600 18px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue, Arial";
+    ctx.fillText(
+      "Jagged Intelligence: Today's AI user experience",
+      left,
+      top - 6 + 8
+    );
+  }
 
   // Removed the small key (highs/lows) per request
 }
