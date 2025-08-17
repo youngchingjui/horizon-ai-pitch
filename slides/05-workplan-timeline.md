@@ -153,7 +153,7 @@ Small, predictable two-week sprints per department with built-in buffer and over
 
 ## Week 2
 
-- Mon–Wed: Iterate, validate, and prep enablement assets (prompts, SOPs, checklists).
+- Mon–Wed: Share workflow with wider team, iterate, validate, and prep enablement assets (prompts, SOPs, checklists).
 - Thu: Audience-led Workshop for the department (Q&A, feedback, usage guidance).
 - Fri: Weekly usage summary and short report (what shipped, early usage, success signals).
 
