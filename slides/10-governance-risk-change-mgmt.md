@@ -1,9 +1,9 @@
 ---
-layout: two-cols
+layout: three-cols
 ---
 
 ::header::
-# Change Management (ADKAR lens)
+# We employ change management best practices (ADKAR) to ensure greatest adoption and impact.
 
 ::default::
 
@@ -15,6 +15,7 @@ layout: two-cols
 - Ability — people can do it in their real work (guided practice, coaching, SOPs).
 - Reinforcement — change sticks (feedback loops, metrics, stories, incentives).
 
+::middle::
 ## How we drive it in this program
 
 - Awareness: Program kickoff + Executive Summary set the case for change; guardrails keep it safe.
