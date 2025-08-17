@@ -3,16 +3,20 @@ layout: two-cols
 ---
 
 ::header::
-# Who we are
+# We've been building AI solutions for enterprise in China since 2018
 
 ::default::
 
 ### Ching
-Founder & AI Consultant — Youngin AI
+Founder & AI Consultant — Young & AI
 
+- Ex-McKinsey + PwC consultant
+- Self-taught developer
+- Built production AI systems end‑to‑end
+- Built image-recognition neural network models
 - AI enterprise developer focused on practical, measurable outcomes
 - 7+ years building production AI systems end‑to‑end
-- From discovery and prototyping to deployment and instrumentation
+- From discovery and prototyping to deployment and instrumentation.
 
 ::right::
 
