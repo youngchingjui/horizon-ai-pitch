@@ -27,6 +27,10 @@ src: ./slides/02-objectives-success-criteria.md
 ---
 
 ---
+src: ./slides/03-high-level-strategy.md
+---
+
+---
 src: ./slides/05-workplan-timeline.md
 ---
 
@@ -69,3 +73,4 @@ src: ./slides/14-effort-commercials.md
 ---
 src: ./slides/15-long-term-usage-checks.md
 ---
+
