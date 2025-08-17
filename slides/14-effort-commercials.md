@@ -3,8 +3,7 @@ layout: three-cols
 ---
 
 ::header::
-# Commercials
-Pick a package
+# Packages
 
 ::default::
 ## Starter
@@ -12,12 +11,10 @@ Pick a package
 
 ¥88,000 RMB
 
-### Scope
-- 2 AI pilots (within one department)
-- AI Core + 1 Function Lab (covers 1 department)
-- Lightweight usage reporting (no dashboards)
-### Effort
-30–40 consulting hours
+### Scope - 1 department
+- 2 AI pilots
+- AI Core + 1 Function Lab
+
 
 
 ::middle::
@@ -26,24 +23,19 @@ Pick a package
 
 ¥218,000 RMB
 
-### Scope
-- 10 pilots → 5–7 productionized
-- AI Core + 5 Function Labs (all five departments)
-- Usage reporting (no dashboards)
+### Scope - 5 departments
+- 10 AI pilots
+- AI Core + 5 Function Labs
+- Usage reporting
 - Champions program
-### Effort
-180–240 hours
 
 
 ::right::
-## Plus
-12 weeks – deeper automation / integrations
+## Pro
+12 weeks – Enterprise support
 
-¥318,000 RMB
+¥518,000 RMB
 
 ### Scope
 - Everything in Standard + 2 light integrations (APIs/automations)
 - Extra change‑mgmt support
-### Effort
-260–320 hours
-
