@@ -13,8 +13,8 @@ Pick a package
 ¥88,000 RMB
 
 ### Scope
-- 2 AI pilots
-- AI Core + 1 Function Labs
+- 2 AI pilots (within one department)
+- AI Core + 1 Function Lab (covers 1 department)
 - Lightweight usage reporting (no dashboards)
 ### Effort
 30–40 consulting hours
@@ -28,7 +28,7 @@ Pick a package
 
 ### Scope
 - 10 pilots → 5–7 productionized
-- AI Core + 5 Function Labs
+- AI Core + 5 Function Labs (all five departments)
 - Usage reporting (no dashboards)
 - Champions program
 ### Effort
@@ -46,3 +46,4 @@ Pick a package
 - Extra change‑mgmt support
 ### Effort
 260–320 hours
+
