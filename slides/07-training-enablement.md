@@ -3,11 +3,9 @@ layout: two-cols
 ---
 
 ::header::
-# Training & Enablement (audience‑led, practical)
+# Audience-led Workshops
 
 ::default::
-
-## Audience‑led Workshops
 _Content is shaped by real AI use cases and issues_
 
 - 60‑minute informal sessions held after initial workflows go live.

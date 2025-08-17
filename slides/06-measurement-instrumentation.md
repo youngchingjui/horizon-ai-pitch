@@ -3,11 +3,11 @@ layout: two-cols
 ---
 
 ::header::
-# Measurement & Instrumentation
+# Measures for success
 
 ::default::
 
-## How we measure (low‑overhead)
+## How we measure
 
 - **Sustained adoption**: weekly active users of templates/agents at +1 week, +1 month, +1 quarter; events per user; completion of AI Core.
 - **Quality**: manager review rubric (e.g., accuracy, tone, completeness) on sampled outputs.

@@ -12,20 +12,19 @@ background: ./images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 </div>
 
 ---
+src: ./slides/01-executive-summary.md
+---
+
+---
 src: ./slides/00-introduction-ching-youngin-ai.md
 ---
 
 ---
-src: ./slides/01-executive-summary.md
-hide: false
+src: ./slides/18-jagged-intelligence.md
 ---
 
 ---
 src: ./slides/02-objectives-success-criteria.md
----
-
----
-src: ./slides/04-operating-model-roles.md
 ---
 
 ---
@@ -61,18 +60,13 @@ src: ./slides/13-reporting-artifacts.md
 ---
 
 ---
+src: ./slides/04-operating-model-roles.md
+---
+
+---
 src: ./slides/14-effort-commercials.md
 ---
 
 ---
 src: ./slides/15-long-term-usage-checks.md
 ---
-
----
-src: ./slides/17-risks-mitigations.md
----
-
----
-src: ./slides/18-jagged-intelligence.md
----
-

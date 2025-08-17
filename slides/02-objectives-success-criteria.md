@@ -3,7 +3,7 @@ layout: three-cols
 ---
 
 ::header::
-# Suggested objectives & success criteria
+# Objectives & success criteria
 
 ::default::
 

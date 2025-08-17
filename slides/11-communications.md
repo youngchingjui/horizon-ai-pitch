@@ -1,4 +1,4 @@
-# 12‑Week Communications Calendar
+# 12‑Week Calendar
 
 Small, predictable touchpoints that keep momentum and visibility high.
 

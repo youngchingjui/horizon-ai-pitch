@@ -8,23 +8,23 @@ Pick a package
 
 ::default::
 ## Starter
-8 weeks – focused quick wins
+4 weeks – focused quick wins
 
-$20,000
+¥88,000 RMB
 
 ### Scope
-- 6 pilots → 3 productionized
-- AI Core + 2 Function Labs
+- 2 AI pilots
+- AI Core + 1 Function Labs
 - Lightweight usage reporting (no dashboards)
 ### Effort
-90–120 consulting hours
+30–40 consulting hours
 
 
 ::middle::
 ## Standard 
 12 weeks – **recommended**
 
-$30,000
+¥218,000 RMB
 
 ### Scope
 - 10 pilots → 5–7 productionized
@@ -39,7 +39,7 @@ $30,000
 ## Plus
 12 weeks – deeper automation / integrations
 
-$40,000
+¥318,000 RMB
 
 ### Scope
 - Everything in Standard + 2 light integrations (APIs/automations)
