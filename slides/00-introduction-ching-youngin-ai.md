@@ -35,18 +35,20 @@ We are a leading AI enterprise developer. We build AI solutions that ship, stick
 
 <script setup lang="ts">
 const clientLogos = [
-  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
-  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
-  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
-  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
-  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
-  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
-  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
-  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
-  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
-  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
-  { src: '/images/Logo-Horizons-Dark-Transparent-2-1.png', alt: 'Horizons' },
-  { src: '/images/young--ai-high-resolution-logo-transparent.png', alt: 'Young & AI' },
+  // Note: exclude Young & AI and Horizons per request
+  { src: '/images/logos/bmw.svg', alt: 'BMW' },
+  { src: '/images/logos/siemens-logo-0-2048x2048-1.png', alt: 'Siemens' },
+  { src: '/images/logos/pingan-bilingual-logo-vertical-2022.png', alt: 'Ping An' },
+  { src: '/images/logos/Standard_Chartered_(2021).svg.png', alt: 'Standard Chartered' },
+  { src: '/images/logos/Coutts_old.svg', alt: 'Coutts' },
+  { src: '/images/logos/SAIC-Motor-Logo-2011.png', alt: 'SAIC Motor' },
+  { src: '/images/logos/SiM-logo-png.png.webp', alt: 'SIM' },
+  // Repeat a few to reach 10+ and visualize spacing
+  { src: '/images/logos/bmw.svg', alt: 'BMW' },
+  { src: '/images/logos/siemens-logo-0-2048x2048-1.png', alt: 'Siemens' },
+  { src: '/images/logos/Standard_Chartered_(2021).svg.png', alt: 'Standard Chartered' },
+  { src: '/images/logos/pingan-bilingual-logo-vertical-2022.png', alt: 'Ping An' },
+  { src: '/images/logos/Coutts_old.svg', alt: 'Coutts' },
 ]
 </script>
 
