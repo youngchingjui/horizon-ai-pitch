@@ -25,10 +25,6 @@ src: ./slides/02-objectives-success-criteria.md
 ---
 
 ---
-src: ./slides/03-scope-assumptions-guardrails.md
----
-
----
 src: ./slides/04-operating-model-roles.md
 ---
 
