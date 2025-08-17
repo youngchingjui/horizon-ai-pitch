@@ -53,6 +53,10 @@ src: ./slides/08-candidate-pilot-backlog.md
 ---
 
 ---
+src: ./slides/09-example-sales-outreach-workflow.md
+---
+
+---
 src: ./slides/10-governance-risk-change-mgmt.md
 ---
 
