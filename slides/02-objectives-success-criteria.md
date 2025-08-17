@@ -1,31 +1,45 @@
 ---
 layout: three-cols
+transition: fade
 ---
 
 ::header::
-# Objectives & success criteria
+# Objectives
 
 ::default::
 
-## Business objectives
+## Program objectives
 
-- Aim for efficiency lift on high‑volume workflows per function (ballpark: 15–30% across 2–4 workflows; measured via existing KPIs and sampled output reviews—no stopwatch studies).
-- Faster revenue motions: focus on pipeline velocity (e.g., +10–20% more qualified meetings/week per AE; +5–15% reply‑rate uplift on personalized outbound for Marketing/Sales).
-- Customer outcomes: improve responsiveness and proactive touchpoints (e.g., −10–25% median first‑response time in Support; +5–15% increase in proactive health checks for CSM).
-- Ops throughput: automate repetitive workflows with quality gates (target 2–4 workflows; shadow‑run accuracy ~90–97% before production).
+- Help the China team use modern artificial intelligence tools with confidence in daily work.
+- Run a focused 3‑month change management program across Sales, Marketing, Customer Success (CSM), Operations, and Support.
+- Make everyday work faster and easier without lowering quality.
+- Identify measurable use cases, pilot quickly, and prepare to scale globally after successful outcomes.
 
 ::middle::
 
-## Adoption objectives
+## Where we will focus
 
-- Training completion: majority of target users complete "AI Core" and pass a short skills check (aim for ~70–90%).
-- Community: establish AI Champions with office hours (target 3–6 Champions in China).
-- Reusable assets: central library grows and integrates into existing tools (ballpark: 20–40 vetted prompts/templates and 8–12 SOPs).
-- Sustained usage: validate post‑handoff with WAU targets at +1 month/+1 quarter (e.g., 20–40% at +1 mo; 30–60% at +1 qtr) and a clear "should we remove it?" no‑signal.
+- Five business functions: Sales, Marketing, Customer success, Operations, and Support.
+- For each function, pick a few high‑volume workflows to improve.
+- Try specialized tools that support the work. Examples:
+  - Sales: automate lead research, generate tailored outreach, and provide real‑time objection handling.
+  - Marketing: streamline content creation, campaign personalization, and performance analytics.
+  - Customer Success (CSM): enhance client insights, automate routine check‑ins, and surface relevant solutions based on account health.
+  - Operations: improve process efficiency through workflow automation and AI‑driven forecasting.
+  - Support: implement AI‑powered self‑service tools, ticket triage, and faster resolution suggestions.
+- Build skills and change minds through short training, live demos, and office hours. Create a small group of internal champions to help others.
 
 ::right::
 
-## Executive‑level win
+## What success looks like
 
-- Monthly "AI Wins" digest and a 30‑minute show‑and‑tell for the global LT (target timing: Week 6–8) highlighting China's results.
+- Pilot adoption and satisfaction are high; people choose to use the tools because they help.
+- 1+ improved workflows per function become the new standard.
+- Demonstrable efficiency and impact metrics per function, for example:
+  - Sales: higher reply rates or meetings booked from AI‑assisted outreach.
+  - Marketing: shorter content cycle times and better campaign performance.
+  - CSM: improved client satisfaction scores or faster risk escalation.
+  - Operations: reduced compliance risk or improved payroll accuracy.
+  - Support: lower time‑to‑resolution or higher self‑service deflection.
+- Clear, well‑documented case studies we can demo to the global leadership team to support rollout beyond China.
 
