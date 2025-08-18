@@ -22,11 +22,19 @@ src: ./slides/toc.md
 ---
 
 ---
+src: ./slides/section-objectives.md
+---
+
+---
 src: ./slides/01-executive-summary.md
 ---
 
 ---
 src: ./slides/02-objectives-success-criteria.md
+---
+
+---
+src: ./slides/section-plan.md
 ---
 
 ---
@@ -62,7 +70,15 @@ src: ./slides/09b-relevance-ai-outbound-case-study.md
 ---
 
 ---
+src: ./slides/section-about-young-ai.md
+---
+
+---
 src: ./slides/00-introduction-ching-youngin-ai.md
+---
+
+---
+src: ./slides/section-commercials.md
 ---
 
 ---

@@ -2,7 +2,6 @@
 layout: image-right
 image: images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
 class: no-dim
-routeAlias: objectives
 ---
 
 # Upskill Horizons Workforce with AI
