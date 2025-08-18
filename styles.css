@@ -53,6 +53,16 @@
 }
 
 /* Optional: subtle highlighter effect */
+/* Ensure any element with `.highlight` uses the Horizons accent */
+.highlight {
+  background: linear-gradient(
+    to bottom,
+    transparent 60%,
+    rgba(var(--horizon-accent-rgb), 0.22) 0
+  );
+  border-radius: 2px;
+}
+
 .keyword.highlight,
 .emph.highlight {
   background: linear-gradient(
@@ -187,3 +197,4 @@
   border-radius: 9999px;
   box-shadow: 0 6px 16px rgba(var(--horizon-accent-rgb), 0.25);
 }
+
