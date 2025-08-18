@@ -30,7 +30,6 @@ We looks forward to working with <span class="keyword">Horizons</span> to implem
     <span style="opacity:0.9;">+86 139 1887 8444</span>
   </div>
   <div style="margin-top: 14px; display:flex; gap:16px; align-items:flex-end;">
-    <img src="../images/logos/Logo-Horizons-Dark-Transparent-2-1.png" alt="Horizons logo" style="width: 110px; height: auto;" />
     <img src="../images/logos/young--ai-high-resolution-logo-transparent.png" alt="Young & AI logo" style="width: 110px; height: auto;" />
   </div>
 </div>
