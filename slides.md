@@ -1,6 +1,7 @@
 ---
 theme: seriph
 background: ./images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
+class: no-footer
 ---
 
 # Horizons (AI)
