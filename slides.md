@@ -52,6 +52,11 @@ disabled: true
 ---
 
 ---
+src: ./slides/09b-relevance-ai-outbound-case-study.md
+disabled: true
+---
+
+---
 src: ./slides/00-introduction-ching-youngin-ai.md
 ---
 
