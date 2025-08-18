@@ -34,6 +34,10 @@ src: ./slides/03-high-level-strategy.md
 ---
 
 ---
+src: ./slides/04-operating-model-roles.md
+---
+
+---
 src: ./slides/05-workplan-timeline.md
 ---
 
