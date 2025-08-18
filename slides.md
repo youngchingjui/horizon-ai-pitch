@@ -6,7 +6,7 @@ class: no-footer no-dim
 
 # Horizons (AI)
 
-Change management and AI upskilling proposal for Horizon employees
+Change management and AI upskilling proposal for Horizons employees
 
 August 2025
 
