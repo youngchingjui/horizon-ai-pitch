@@ -282,8 +282,10 @@
 .slidev-layout::after {
   content: "Horizons (AI) Proposal • For internal discussion only • August 2025";
   position: absolute;
-  right: 18px;
+  left: 50%;
   bottom: 12px;
+  transform: translateX(-50%);
+  text-align: center;
   font-size: 11px;
   line-height: 1;
   color: rgba(55, 65, 81, 0.65); /* slate-700 at ~65% for subtlety */
