@@ -64,23 +64,57 @@
 <div style="font-size: 13px; margin-top: 10px; display: grid; gap: 8px;">
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
-    <div><strong>Interview</strong> — 1:1 interviews with dept lead / AI Champion (60m)</div>
+    <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
+      <div><strong>Interview</strong> — 1:1 interviews with dept lead / AI Champion (60m)</div>
+      <div class="participant-tags">
+        <span class="tag ai-champion">AI Champion</span>
+        <span class="tag young-ai">Young &amp; AI</span>
+        <span class="tag sponsor optional">Project sponsor</span>
+      </div>
+    </div>
   </div>
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-ability); border-radius: 3px;"></span>
-    <div><strong>Build and revise</strong> — Review → Build → Review → Validate on real examples</div>
+    <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
+      <div><strong>Build and revise</strong> — Review → Build → Review → Validate on real examples</div>
+      <div class="participant-tags">
+        <span class="tag young-ai">Young &amp; AI</span>
+      </div>
+    </div>
   </div>
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
-    <div><strong>Share with team</strong> — share workflows and quick wins, collect feedback</div>
+    <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
+      <div><strong>Share with team</strong> — share workflows and quick wins, collect feedback</div>
+      <div class="participant-tags">
+        <span class="tag ai-champion">AI Champion</span>
+        <span class="tag young-ai">Young &amp; AI</span>
+        <span class="tag whole-team">Whole dept team</span>
+      </div>
+    </div>
   </div>
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
-    <div><strong>Workshop</strong> — audience-led Q&A; address adoption blockers</div>
+    <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
+      <div><strong>Workshop</strong> — audience-led Q&amp;A; address adoption blockers</div>
+      <div class="participant-tags">
+        <span class="tag ai-champion">AI Champion</span>
+        <span class="tag young-ai">Young &amp; AI</span>
+        <span class="tag whole-team">Whole dept team</span>
+        <span class="tag sponsor optional">Project sponsor</span>
+      </div>
+    </div>
   </div>
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-ability); border-radius: 3px;"></span>
-    <div><strong>Report</strong> — what shipped, usage snapshot, next steps</div>
+    <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
+      <div><strong>Report</strong> — what shipped, usage snapshot, next steps</div>
+      <div class="participant-tags">
+        <span class="tag ai-champion">AI Champion</span>
+        <span class="tag young-ai">Young &amp; AI</span>
+        <span class="tag sponsor required">Project sponsor</span>
+      </div>
+    </div>
   </div>
 </div>
 
