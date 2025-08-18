@@ -187,3 +187,28 @@
   border-radius: 9999px;
   box-shadow: 0 6px 16px rgba(var(--horizon-accent-rgb), 0.25);
 }
+
+/* Timeline vertical week highlights for columns 5 and 12 */
+.timeline-week-highlight {
+  --first-col-width: 180px;
+  --week-width: calc((100% - var(--first-col-width)) / 12);
+  --week-5-start: calc(var(--first-col-width) + 4 * var(--week-width));
+  --week-12-start: calc(var(--first-col-width) + 11 * var(--week-width));
+  --week-highlight-color: rgba(var(--horizon-accent-rgb), 0.12);
+  background-image:
+    linear-gradient(
+      to right,
+      transparent calc(var(--week-5-start)),
+      var(--week-highlight-color) calc(var(--week-5-start)),
+      var(--week-highlight-color) calc(var(--week-5-start) + var(--week-width)),
+      transparent calc(var(--week-5-start) + var(--week-width))
+    ),
+    linear-gradient(
+      to right,
+      transparent calc(var(--week-12-start)),
+      var(--week-highlight-color) calc(var(--week-12-start)),
+      var(--week-highlight-color) calc(var(--week-12-start) + var(--week-width)),
+      transparent calc(var(--week-12-start) + var(--week-width))
+    );
+  background-repeat: no-repeat;
+}
