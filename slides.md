@@ -41,12 +41,18 @@ src: ./slides/section-plan.md
 src: ./slides/03-high-level-strategy.md
 ---
 
+
+
 ---
 src: ./slides/05-workplan-timeline.md
 ---
 
 ---
 src: ./slides/sprint-breakdown.md
+---
+
+---
+src: ./slides/04-operating-model-roles.md
 ---
 
 ---
