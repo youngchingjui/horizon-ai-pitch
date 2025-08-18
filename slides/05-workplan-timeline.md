@@ -1,3 +1,7 @@
+---
+route: /plan
+---
+
 # We'll build AI workflows for each department in 2-week sprints with time for follow-on review
 
 Every sprint includes "as-is" process flow interviews, AI workflow build and validate, trial period, workshops, and sprint review.

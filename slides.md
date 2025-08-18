@@ -17,6 +17,10 @@ For internal discussion only
 </div>
 
 ---
+src: ./slides/00-table-of-contents.md
+---
+
+---
 src: ./slides/01-executive-summary.md
 ---
 

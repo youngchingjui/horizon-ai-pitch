@@ -1,6 +1,7 @@
 ---
 layout: three-cols
 transition: fade
+route: /objectives
 ---
 
 ::header::

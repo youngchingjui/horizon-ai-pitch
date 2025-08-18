@@ -1,5 +1,6 @@
 ---
 layout: three-cols
+route: /commercials
 ---
 
 ::header::
