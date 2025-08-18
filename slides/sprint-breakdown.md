@@ -1,4 +1,4 @@
-# Department Sprint Breakdown (2 weeks)
+# Each 2-week sprint will cover build, validate and review phases to maximize AI adoption and impact
 
 <table style="width:100%; border-collapse: collapse; font-size: 14px; table-layout:fixed; 
   background-image:
@@ -41,7 +41,7 @@
         <div style="background: var(--horizon-accent); color: #fff; border-radius: 999px; padding: 6px 12px; margin: 0 4px; text-align: center; height: 48px; display: flex; align-items: center; justify-content: center; line-height: 1.3; box-sizing: border-box;">Process interview</div>
       </td>
       <td colspan="4" style="border-top:1px solid #eee; padding:6px; height:56px; vertical-align: middle;">
-        <div style="background: var(--adkar-ability); color: #fff; border-radius: 999px; padding: 6px 12px; margin: 0 4px; text-align: center; height: 48px; display: flex; align-items: center; justify-content: center; line-height: 1.3; box-sizing: border-box;">Build and revise</div>
+        <div style="background: var(--adkar-ability); color: #fff; border-radius: 999px; padding: 6px 12px; margin: 0 4px; text-align: center; height: 48px; display: flex; align-items: center; justify-content: center; line-height: 1.3; box-sizing: border-box;">Build and validate</div>
       </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
-      <div><strong>Interview</strong> — 1:1 interviews with dept lead / AI Champion (60m)</div>
+      <div><strong>Interview (60m)</strong> — 1:1 interviews with dept lead / AI Champion</div>
       <div class="participant-tags">
         <span class="tag ai-champion">AI Champion</span>
         <span class="tag young-ai">Young &amp; AI</span>
@@ -82,7 +82,7 @@
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-ability); border-radius: 3px;"></span>
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
-      <div><strong>Build and revise</strong> — Review → Build → Review → Validate on real examples</div>
+      <div><strong>Build and validate</strong> — Build → Validate → Revise new AI workflows in partnership with AI Champion</div>
       <div class="participant-tags">
         <span class="tag ai-champion">AI Champion</span>
         <span class="tag young-ai">Young &amp; AI</span>
@@ -92,7 +92,7 @@
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
-      <div><strong>Share with team</strong> — share workflows and quick wins, collect feedback</div>
+      <div><strong>Share with team</strong> — share AI workflows with wider team, collect feedback</div>
       <div class="participant-tags">
         <span class="tag young-ai">Young &amp; AI</span>
         <span class="tag whole-team">Dept team</span>
@@ -102,7 +102,7 @@
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
-      <div><strong>Workshop</strong> — audience-led Q&amp;A; address adoption blockers</div>
+      <div><strong>Workshop (60m)</strong> — audience-led workshop; address adoption blockers</div>
       <div class="participant-tags">
         <span class="tag young-ai">Young &amp; AI</span>
         <span class="tag whole-team">Dept team</span>
@@ -124,7 +124,7 @@
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: rgba(var(--horizon-accent-rgb), 0.22); border: 1px solid rgba(0,0,0,0.06); border-radius: 3px;"></span>
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
-      <div><strong>Follow-on review (enterprise package)</strong> — on-demand tweaks and support for deployed workflows</div>
+      <div><strong>(Optional) Follow-on review</strong> — on-demand tweaks and support for deployed workflows</div>
       <div class="participant-tags">
         <span class="tag young-ai">Young &amp; AI</span>
         <span class="tag whole-team">Dept team</span>

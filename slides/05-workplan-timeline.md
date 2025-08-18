@@ -1,6 +1,6 @@
 # We'll build AI workflows for each department in 2-week sprints with time for follow-on review
 
-Every sprint includes "as-is" process flow interviews, AI workflow build and revise, trial period, workshops, and sprint review.
+Every sprint includes "as-is" process flow interviews, AI workflow build and validate, trial period, workshops, and sprint review.
 
 <div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px; flex-wrap: wrap;">
   <span style="display:inline-flex; align-items:center; gap:6px;">
