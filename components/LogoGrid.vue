@@ -16,21 +16,25 @@
 </template>
 
 <script setup lang="ts">
+import { toRefs } from "vue";
 interface LogoItem {
-  src: string
-  alt?: string
-  href?: string
+  src: string;
+  alt?: string;
+  href?: string;
 }
 
-const props = withDefaults(defineProps<{
-  logos: LogoItem[]
-  /** Minimum column width in px before wrapping to next line */
-  minSize?: number
-}>(), {
-  minSize: 80,
-})
+const props = withDefaults(
+  defineProps<{
+    logos: LogoItem[];
+    /** Minimum column width in px before wrapping to next line */
+    minSize?: number;
+  }>(),
+  {
+    minSize: 80,
+  }
+);
 
-const { logos, minSize } = toRefs(props)
+const { logos, minSize } = toRefs(props);
 </script>
 
 <style scoped>
@@ -56,7 +60,9 @@ const { logos, minSize } = toRefs(props)
   /* keep them subtle and consistent */
   filter: grayscale(100%);
   opacity: 0.9;
-  transition: opacity 0.2s ease, filter 0.2s ease;
+  transition:
+    opacity 0.2s ease,
+    filter 0.2s ease;
 }
 
 .logo-item:hover img {
@@ -65,11 +71,14 @@ const { logos, minSize } = toRefs(props)
 }
 
 @media (min-width: 640px) {
-  .logo-item img { max-height: 60px; }
+  .logo-item img {
+    max-height: 60px;
+  }
 }
 
 @media (min-width: 1024px) {
-  .logo-item img { max-height: 72px; }
+  .logo-item img {
+    max-height: 72px;
+  }
 }
 </style>
-
