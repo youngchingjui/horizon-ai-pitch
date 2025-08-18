@@ -41,14 +41,6 @@ src: ./slides/sprint-breakdown.md
 ---
 
 ---
-src: ./slides/06-measurement-instrumentation.md
----
-
----
-src: ./slides/07-training-enablement.md
----
-
----
 src: ./slides/08-candidate-pilot-backlog.md
 ---
 
@@ -57,27 +49,7 @@ src: ./slides/09-example-sales-outreach-workflow.md
 ---
 
 ---
-src: ./slides/10-governance-risk-change-mgmt.md
----
-
----
-src: ./slides/10-change-mgmt-adkar-redesign.md
----
-
----
-src: ./slides/11-communications.md
----
-
----
-src: ./slides/13-reporting-artifacts.md
----
-
----
 src: ./slides/14-effort-commercials.md
----
-
----
-src: ./slides/15-long-term-usage-checks.md
 ---
 
 ---
