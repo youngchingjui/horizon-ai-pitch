@@ -22,11 +22,11 @@ src: ./slides/toc.md
 ---
 
 ---
-src: ./slides/01-executive-summary.md
+src: ./slides/section-objectives.md
 ---
 
 ---
-src: ./slides/section-objectives.md
+src: ./slides/01-executive-summary.md
 ---
 
 ---
