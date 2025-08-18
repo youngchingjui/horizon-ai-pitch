@@ -17,7 +17,7 @@ Every sprint includes "as-is" process flow interviews, AI workflow build and rev
   </span>
 </div>
 
-<table style="width:100%; border-collapse: collapse; font-size: 14px; table-layout:fixed;">
+<table class="timeline-week-highlight" style="width:100%; border-collapse: collapse; font-size: 14px; table-layout:fixed;">
   <colgroup>
     <col style="width:180px;">
     <col span="12" style="width:auto;">
