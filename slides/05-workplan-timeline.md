@@ -1,19 +1,19 @@
 # We'll build AI workflows for each department in 2-week sprints with time for follow-on review
 
-Every sprint includes "as-is" process flow interviews, AI workflow build and revise, trial period, workshops, and sprint review.
+Every sprint includes "as-is" process flow interviews, AI workflow build and validate, trial period, workshops, and sprint review.
 
 <div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px; flex-wrap: wrap;">
   <span style="display:inline-flex; align-items:center; gap:6px;">
     <span style="width:14px; height:10px; display:inline-block; background: var(--horizon-accent); border-radius: 2px;"></span>
-    <span>Main work (2 weeks)</span>
+    <span>Main work</span>
   </span>
   <span style="display:inline-flex; align-items:center; gap:6px;">
     <span style="width:14px; height:10px; display:inline-block; background: rgba(var(--horizon-accent-rgb), 0.22); border: 1px solid rgba(0,0,0,0.06); border-radius: 2px;"></span>
-    <span>Follow-on review (1 week)</span>
+    <span>(Optional) Follow-on review</span>
   </span>
   <span style="display:inline-flex; align-items:center; gap:6px;">
     <span style="width:12px; height:12px; display:inline-block; border:2px solid var(--horizon-accent); border-radius: 9999px; box-shadow: 0 0 0 2px rgba(37,99,235,0.06);"></span>
-    <span>Program review checkpoints (weeks 5 and 12)</span>
+    <span>Program review checkpoints</span>
   </span>
 </div>
 

@@ -49,7 +49,7 @@ layout: three-cols
 
 ### Everything in Standard, plus:
 - Additional AI workflow builds per request
-- Additional AI workflow revisions during project
+- Follow-on review week after sprints
 - Customization support (APIs/automations, light engineering)
 - Baseline measurement + KPI plan
 - Dedicated cadence with PMO and leadership

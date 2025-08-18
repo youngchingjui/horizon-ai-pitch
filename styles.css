@@ -198,6 +198,58 @@
   box-shadow: 0 6px 16px rgba(var(--horizon-accent-rgb), 0.25);
 }
 
+/* Participant tags (pills) */
+.participant-tags {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 9999px;
+  padding: 3px 8px;
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 1;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+/* Role colors */
+.tag.ai-champion {
+  color: #1e40af; /* blue-800 */
+  background: rgba(37, 99, 235, 0.12); /* blue-600 */
+  border-color: rgba(37, 99, 235, 0.4);
+}
+
+.tag.young-ai {
+  color: #065f46; /* emerald-800 */
+  background: rgba(16, 185, 129, 0.12);
+  border-color: rgba(16, 185, 129, 0.45);
+}
+
+.tag.whole-team {
+  color: #3730a3; /* indigo-800 */
+  background: rgba(99, 102, 241, 0.12);
+  border-color: rgba(99, 102, 241, 0.45);
+}
+
+/* Sponsor variants */
+.tag.sponsor.required {
+  color: #92400e; /* amber-800 */
+  background: rgba(245, 158, 11, 0.16);
+  border-color: rgba(245, 158, 11, 0.55);
+}
+
+.tag.sponsor.optional {
+  color: #92400e; /* amber-800 */
+  background: rgba(245, 158, 11, 0.06);
+  border-color: rgba(245, 158, 11, 0.55);
+}
+
 /* Timeline vertical week highlights for columns 5 and 12 */
 .timeline-week-highlight {
   --first-col-width: 180px;
