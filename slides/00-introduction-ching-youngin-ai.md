@@ -1,40 +1,26 @@
 ---
-layout: three-cols
+layout: two-cols
 ---
 
 ::header::
-# We've been building AI solutions for enterprise in China since 2018
+# We've been building AI solutions for enterprise clients in China since 2018
 
 ::default::
 
-### Ching Jui Young
-Founder & AI Engineer
-
-- Ex-McKinsey + PwC consultant
-- Self-taught developer
-- Built production AI systems end‑to‑end
-- Built image-recognition neural network models
-- AI enterprise developer focused on practical, measurable outcomes
-- 7+ years building production AI systems end‑to‑end
-- From discovery and prototyping to deployment and instrumentation.
-
-::middle::
-
 <img src="/images/logos/young--ai-high-resolution-logo-transparent.png" alt="Young & AI logo" style="width: 140px; height: auto;" />
 
-We are a leading AI enterprise developer. We build AI solutions that ship, stick, and deliver business value. We’re a small, senior team with an outsized impact — focused, fast, and relentlessly practical.
+We design, build and implement AI solutions for enterprise. We’re a small, senior team with an outsized impact — focused, fast, and practical.
 
-- Small, focused team with outsized impact
 - Building AI solutions since 2018
-- Delivered projects across industries and company sizes
+- Delivered projects across industries including professional services, auto, financial services, real estate, luxury, and more.
 - Experience ranges from ML models for trend detection to automation & copilots
-- Strong focus on MLOps, data pipelines, governance, and measurable ROI
+- Strong focus on MLOps, AI solutions, data pipelines, change management, and measurable ROI
 
 ::right::
 
 _20+ successful AI implementations delivered to clients such as:_
 
-<LogoGrid :logos="clientLogos" :minSize="60" />
+<LogoGrid :logos="clientLogos" :minSize="100" />
 
 <script setup lang="ts">
 const clientLogos = [
