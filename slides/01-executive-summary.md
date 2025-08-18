@@ -1,6 +1,7 @@
 ---
 layout: image-right
 image: images/alexander-grey-NkQD-RHhbvY-unsplash.jpg
+class: exec-summary
 ---
 
 # Upskill Horizon Workforce with AI
