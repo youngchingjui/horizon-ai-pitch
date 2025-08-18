@@ -1,25 +1,26 @@
-# Example AI Use Cases (by function)
+# Candidate AI Workflows (by function)
 
-<small class="opacity-80">Illustrative workflows where AI can help — use as prompts to ideate for your own context.</small>
+<small class="opacity-80">Illustrative starting points — we will co‑design to your context. Spotlighted item carries to the next slide.</small>
 
 <div class="grid grid-cols-2 gap-6 mt-4">
   <!-- Sales -->
-  <div class="border rounded-lg p-4 bg-white/70">
+  <div class="border rounded-lg p-4 bg-white/75">
     <h3>Sales</h3>
     <div class="grid grid-cols-2 gap-3 mt-3">
       <div class="rounded-md border bg-white p-3">
         <div class="font-semibold text-sm">Country Quick‑Sheet</div>
         <div class="text-xs opacity-80 mt-1">Auto‑generate "Hiring in X" snapshots from vetted content; attach to outbound.</div>
       </div>
-      <div class="rounded-md border bg-white p-3">
+      <div class="rounded-md border bg-white p-3 relative">
         <div class="font-semibold text-sm">Personalized Outbound</div>
         <div class="text-xs opacity-80 mt-1">3‑touch sequence tailored to persona/industry with compliant claims; AE approves/edits.</div>
+        <span class="absolute top-2 right-2 text-[10px] font-extrabold px-2 py-0.5 rounded-full" style="background: var(--horizon-accent); color: white;">Spotlight</span>
       </div>
     </div>
   </div>
 
   <!-- Marketing -->
-  <div class="border rounded-lg p-4 bg-white/70">
+  <div class="border rounded-lg p-4 bg-white/75">
     <h3>Marketing</h3>
     <div class="grid grid-cols-2 gap-3 mt-3">
       <div class="rounded-md border bg-white p-3">
@@ -34,7 +35,7 @@
   </div>
 
   <!-- CSM -->
-  <div class="border rounded-lg p-4 bg-white/70">
+  <div class="border rounded-lg p-4 bg-white/75">
     <h3>CSM</h3>
     <div class="grid grid-cols-2 gap-3 mt-3">
       <div class="rounded-md border bg-white p-3">
@@ -49,7 +50,7 @@
   </div>
 
   <!-- Operations -->
-  <div class="border rounded-lg p-4 bg-white/70">
+  <div class="border rounded-lg p-4 bg-white/75">
     <h3>Operations</h3>
     <div class="grid grid-cols-2 gap-3 mt-3">
       <div class="rounded-md border bg-white p-3">
@@ -64,7 +65,7 @@
   </div>
 
   <!-- Support -->
-  <div class="border rounded-lg p-4 bg-white/70 col-span-2">
+  <div class="border rounded-lg p-4 bg-white/75 col-span-2">
     <h3>Support</h3>
     <div class="grid grid-cols-2 gap-3 mt-3">
       <div class="rounded-md border bg-white p-3">
@@ -78,3 +79,8 @@
     </div>
   </div>
 </div>
+
+<div class="mt-3 text-xs opacity-75">
+  Plan: run 10 focused pilots (2 per function). Start with Sales → Personalized Outbound (spotlighted), then replicate the pattern.
+</div>
+

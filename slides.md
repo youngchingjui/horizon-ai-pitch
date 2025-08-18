@@ -43,12 +43,12 @@ src: ./slides/sprint-breakdown.md
 
 ---
 src: ./slides/08-candidate-pilot-backlog.md
-disabled: true
+class: no-footer
 ---
 
 ---
 src: ./slides/09-example-sales-outreach-workflow.md
-disabled: true
+class: no-footer
 ---
 
 ---
