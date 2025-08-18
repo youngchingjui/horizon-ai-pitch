@@ -32,3 +32,9 @@ layout: deliverables-grid
 - Measure and iterate: simple weekly usage snapshots, quality sampling, funnel/support deltas, and the "can we remove it?" signal test.
 - Handoff: run books, playbooks, and a 90‑day backlog to scale wins.
 
+## How
+
+- **5x 2-week Build Sprints** across **Sales**, **Marketing**, **Customer success**, **Operations**, and **Support**.
+- For each function, pick **2+ high‑volume workflows** to improve.
+- Build pilot AI workflows using off-the-shelf tools.
+- Build skills and change minds through short training, live demos, and office hours. Create a small group of internal champions to help others.
