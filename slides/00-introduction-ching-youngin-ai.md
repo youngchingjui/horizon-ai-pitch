@@ -18,9 +18,9 @@ We design, build and implement AI solutions for enterprise. We’re a small, sen
 
 ::right::
 
-_20+ successful AI implementations delivered to clients such as:_
+_20+ successful AI solutions and change management projects delivered to clients such as:_
 
-<LogoGrid :logos="clientLogos" :minSize="100" />
+<LogoGrid :logos="clientLogos" :minSize="95" />
 
 <script setup lang="ts">
 const clientLogos = [
