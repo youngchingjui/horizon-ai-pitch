@@ -1,6 +1,5 @@
 ---
 layout: two-cols
-routeAlias: plan
 ---
 
 ::header::
