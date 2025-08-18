@@ -15,6 +15,9 @@ layout: two-cols
 ::right::
 
 <div class="relative mt-4">
+  <div class="absolute -top-3 -left-3 z-10 bg-accent text-white text-xs font-bold px-2 py-1 rounded shadow">
+    Sales Function
+  </div>
   <img src="../images/relevance ai email screenshot.png" alt="Relevance AI outbound email" class="w-full h-auto rounded-lg border border-gray-200 bg-white/90 p-2 shadow" />
 
   <!-- logo overlay -->
