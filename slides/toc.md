@@ -1,6 +1,6 @@
 ---
 layout: center
-class: text-center
+class: text-center no-dim
 ---
 
 # Table of Contents
