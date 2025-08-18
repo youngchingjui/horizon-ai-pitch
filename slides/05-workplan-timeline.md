@@ -80,7 +80,7 @@ Every sprint includes "as-is" process flow interviews, AI workflow build and rev
 <table style="width:100%; border-collapse: collapse; font-size: 14px;">
   <thead>
     <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;">Week</th>
+      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;"></th>
       <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Monday</th>
       <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Tuesday</th>
       <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Wednesday</th>
@@ -91,16 +91,16 @@ Every sprint includes "as-is" process flow interviews, AI workflow build and rev
   <tbody>
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 1</td>
-      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-awareness);"></td>
-      <td colspan="4" style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-knowledge);"></td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-awareness);">Process interview</td>
+      <td colspan="4" style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-knowledge);">Build and revise</td>
     </tr>
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 2</td>
-      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-reinforcement);"></td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-reinforcement);">Share with team</td>
       <td style="border-top:1px solid #eee; padding:6px; height:28px;"></td>
       <td style="border-top:1px solid #eee; padding:6px; height:28px;"></td>
-      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-ability);"></td>
-      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-desire);"></td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-ability);">Workshop</td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-desire);">Report</td>
     </tr>
   </tbody>
 </table>
