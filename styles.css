@@ -295,3 +295,9 @@
 .no-footer::after {
   content: none !important;
 }
+
+.no-dim h1 + p {
+  opacity: 1 !important;
+  margin-top: revert !important;
+  margin-bottom: revert !important;
+}
