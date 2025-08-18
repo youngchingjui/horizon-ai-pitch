@@ -1,6 +1,6 @@
-# Timeline Overview (12 weeks)
+# We'll build AI workflows for each department in 2-week sprints with time for follow-on review
 
-Small, predictable two-week sprints per department, plus a light follow-on review week.
+Every sprint includes "as-is" process flow interviews, AI workflow build and revise, trial period, workshops, and sprint review.
 
 <div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px;">
   <span style="display:inline-flex; align-items:center; gap:6px;">
@@ -19,12 +19,8 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
     <col span="12" style="width:auto;">
   </colgroup>
   <thead>
-    <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc; white-space:nowrap; width:180px;">Department / Stream</th>
-      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #ccc;" colspan="12">Weeks</th>
-    </tr>
-    <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02); width:180px;"></th>
+    <tr style="color: rgb(140, 140, 140)">
+      <th style="text-align:right; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02); width:180px;">Weeks</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">1</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">2</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">3</th>
