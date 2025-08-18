@@ -1,6 +1,6 @@
-# Timeline Overview (12 weeks)
+# We'll build AI workflows for each department in 2-week sprints with time for follow-on review
 
-Small, predictable two-week sprints per department, plus a light follow-on review week.
+Every sprint includes "as-is" process flow interviews, AI workflow build and revise, trial period, workshops, and sprint review.
 
 <div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px;">
   <span style="display:inline-flex; align-items:center; gap:6px;">
@@ -13,14 +13,14 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
   </span>
 </div>
 
-<table style="width:100%; border-collapse: collapse; font-size: 14px;">
+<table style="width:100%; border-collapse: collapse; font-size: 14px; table-layout:fixed;">
+  <colgroup>
+    <col style="width:180px;">
+    <col span="12" style="width:auto;">
+  </colgroup>
   <thead>
-    <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;">Department / Stream</th>
-      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #ccc;" colspan="12">Weeks</th>
-    </tr>
-    <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);"></th>
+    <tr style="color: rgb(140, 140, 140)">
+      <th style="text-align:right; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02); width:180px;">Weeks</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">1</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">2</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">3</th>
@@ -39,9 +39,8 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Sales</td>
       <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
-      <td colspan="2" style="border-top:1px solid #eee;"></td>
       <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
-      <td colspan="7" style="border-top:1px solid #eee;"></td>
+      <td colspan="9" style="border-top:1px solid #eee;"></td>
     </tr>
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Marketing</td>
@@ -73,57 +72,3 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
     </tr>
   </tbody>
 </table>
-
----
-
-# Department Sprint Breakdown (2 weeks)
-
-<table style="width:100%; border-collapse: collapse; font-size: 14px;">
-  <thead>
-    <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;">Week</th>
-      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Monday</th>
-      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Tuesday</th>
-      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Wednesday</th>
-      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Thursday</th>
-      <th style="text-align:center; padding:6px 8px; border-bottom:1px solid #ccc;">Friday</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 1</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">1:1 interviews with dept lead / AI Champion (60m)</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Build workflows and prompts</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Tune, validate on real examples</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Shadow runs; prep share-out</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Share v1 with Champion; refine</td>
-    </tr>
-    <tr>
-      <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 2</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Share AI workflows with wider team</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Iterate with team feedback</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Validate, prep enablement assets</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Audience-led workshop (Q&A)</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Weekly report (what shipped, usage, next)</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-# Why this pacing
-
-- Focus: Dedicated two-week windows per department drive clarity and speed.
-- Feedback cadence: Interview on Day 1, share by end of Week 1, workshop on Thu Week 2, report Fri ensures learning loops.
-- Risk control: A gap week at Week 5 and discovery/buffer in Week 10 absorb surprises without slipping milestones.
-- Scale: Staggered overlap in Weeks 6–10 allows 3 departments to progress concurrently without overwhelming reviewers.
-
----
-
-# Key dates and artifacts
-
-- Interview: Monday of each sprint Week 1 (60m).
-- Workshop: Thursday of each sprint Week 2 (audience-led, Q&A, adoption blockers).
-- Report: Friday of each sprint Week 2 (brief, metrics snapshot, next steps).
-- Artifacts: Prompts, workflows, SOPs, Champion notes, short weekly report, final program report.
-

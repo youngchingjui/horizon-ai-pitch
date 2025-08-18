@@ -41,6 +41,10 @@ src: ./slides/05-workplan-timeline.md
 ---
 
 ---
+src: ./slides/sprint-breakdown.md
+---
+
+---
 src: ./slides/06-measurement-instrumentation.md
 ---
 

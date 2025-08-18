@@ -6,36 +6,53 @@ layout: three-cols
 # Packages
 
 ::default::
+<div class="package-card">
+
 ## Starter
-4 weeks – focused quick wins
 
-¥88,000 RMB
+**¥108,000 RMB**
 
-### Scope - 1 department
-- 2 AI pilots
-- AI Core + 1 Function Lab
+### 2x AI Build sprints (4 weeks)
+- 1x Kickoff meeting (1 hr)
+- 4x AI workflows / 2 departments
+- 2x process flow interviews
+- 2x audience-led workshops
+- 2x Review sessions
 
+</div>
 
 
 ::middle::
+<div class="package-card recommended">
+  <div class="badge">Recommended</div>
+
 ## Standard 
-12 weeks – **recommended**
 
-¥218,000 RMB
+**¥218,000 RMB**
 
-### Scope - 5 departments
-- 10 AI pilots
-- AI Core + 5 Function Labs
-- Usage reporting
-- Champions program
+### 5x AI Build sprints (12 weeks)
+- 1x Kickoff meeting (1 hr)
+- 10x AI workflows / 5 departments
+- 5x process flow interviews
+- 5x audience-led workshops
+- 5x Review sessions
+
+</div>
 
 
 ::right::
-## Pro
-12 weeks – Enterprise support
+<div class="package-card">
 
-¥518,000 RMB
+## Enterprise
 
-### Scope
-- Everything in Standard + 2 light integrations (APIs/automations)
-- Extra change‑mgmt support
+**¥518,000 RMB**
+
+### Everything in Standard, plus:
+- Additional AI workflow builds per request
+- Additional AI workflow revisions during project
+- Customization support (APIs/automations, light engineering)
+- Baseline measurement + KPI plan
+- Dedicated cadence with PMO and leadership
+
+</div>
+

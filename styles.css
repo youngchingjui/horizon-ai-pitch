@@ -114,3 +114,48 @@
   gap: 8px;
 }
 
+/* Pricing/Packages cards */
+.package-card {
+  position: relative;
+  padding: 16px 18px;
+  border-radius: 14px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: rgba(15, 23, 42, 0.03);
+  box-shadow:
+    0 1px 2px rgba(0,0,0,0.04),
+    0 8px 24px rgba(0,0,0,0.04);
+  backdrop-filter: blur(2px);
+}
+
+.package-card h2, .package-card h3 { margin-top: 0; }
+.package-card h2 { font-weight: 800; letter-spacing: -0.01em; }
+.package-card h3 { font-weight: 700; font-size: 0.95em; opacity: 0.9; }
+.package-card .price { font-size: 1.1em; font-weight: 800; }
+
+/* Highlight the recommended (Standard) option */
+.package-card.recommended {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(var(--horizon-accent-rgb), 0.08),
+      rgba(var(--horizon-accent-rgb), 0.05)
+    );
+  border-color: rgba(var(--horizon-accent-rgb), 0.35);
+  box-shadow:
+    0 2px 8px rgba(var(--horizon-accent-rgb), 0.12),
+    0 16px 40px rgba(0,0,0,0.08);
+}
+
+.package-card .badge {
+  position: absolute;
+  top: -10px;
+  right: 14px;
+  background: var(--horizon-accent);
+  color: white;
+  font-size: 12px;
+  font-weight: 800;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  box-shadow: 0 6px 16px rgba(var(--horizon-accent-rgb), 0.25);
+}
+
