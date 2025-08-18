@@ -2,20 +2,19 @@
 layout: two-cols
 ---
 
-# Next Steps
+# Summary
 
-- 12‑week, department‑by‑department change‑management program to upskill the team and embed practical AI into day‑to‑day work across Sales, Marketing, CSM, Operations, and Support.
-- Two‑week sprints per department: discovery interview, build and validate on real examples, audience‑led workshop, and a brief Friday report with what shipped and what's next.
-- By <span class="keyword">Week 6</span>: at least <span class="keyword">5 productionized wins</span> shared in a visible internal "AI Wins" digest; by <span class="keyword">Week 12</span>: <span class="keyword">playbooks</span>, a <span class="keyword">final report</span>, <span class="keyword">rollout roadmap</span>, and an internal <span class="keyword">AI Champion</span> network to scale.
+- 12‑week change‑management program across Sales, Marketing, CSM, Operations, and Support for the Horizon team in China.
+- The program combines short, high‑leverage training with tightly scoped AI Workflow pilots. Every other Friday we review what shipped.
+- By <span class="keyword">Week 5</span>: at least <span class="keyword">4 productionized AI Workflows</span> that can be shared with the global leadership team; by <span class="keyword">Week 12</span>: handover of all <span class="keyword">AI Workflows</span>, a <span class="keyword">final report</span>, and <span class="keyword">5x employee training sessions</span> so the China team can scale independently and showcase wins to the global team.
 - What we're trying to achieve: measurable adoption, faster cycle times, higher quality outputs, and a sustainable capability inside Horizon China.
 - Ideal outcome after the program: teams continue shipping wins weekly, leaders see usage and impact in the metrics, and China is ready to scale practices to other regions.
 
 ::right::
 
-<div style="margin-top: 18px; font-weight:600;">
-  Young &amp; AI looks forward to working with <span class="keyword">Horizons</span> to implement this change‑management AI program.
-</div>
+# Next Steps
 
+Young & AI looks forward to working with <span class="keyword">Horizon</span> to implement this change‑management AI program.
 
 <div style="padding:16px; border: 1px solid rgba(0,0,0,0.08); border-left: 4px solid var(--horizon-accent); border-radius: 8px; background: rgba(15,23,42,0.02);">
   <div style="font-size:18px; font-weight:700; margin-bottom: 8px;">Contact</div>
