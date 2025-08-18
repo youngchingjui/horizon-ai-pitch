@@ -84,3 +84,7 @@ src: ./slides/14-effort-commercials.md
 src: ./slides/15-long-term-usage-checks.md
 ---
 
+---
+src: ./slides/16-summary-contact.md
+---
+
