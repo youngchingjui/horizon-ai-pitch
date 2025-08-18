@@ -13,14 +13,18 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
   </span>
 </div>
 
-<table style="width:100%; border-collapse: collapse; font-size: 14px;">
+<table style="width:100%; border-collapse: collapse; font-size: 14px; table-layout:auto;">
+  <colgroup>
+    <col style="width:1%;">
+    <col span="12" style="width:auto;">
+  </colgroup>
   <thead>
     <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;">Department / Stream</th>
+      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc; white-space:nowrap; width:1%;">Department / Stream</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #ccc;" colspan="12">Weeks</th>
     </tr>
     <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);"></th>
+      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02); width:1%;"></th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">1</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">2</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">3</th>
@@ -39,9 +43,8 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Sales</td>
       <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
-      <td colspan="2" style="border-top:1px solid #eee;"></td>
       <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
-      <td colspan="7" style="border-top:1px solid #eee;"></td>
+      <td colspan="9" style="border-top:1px solid #eee;"></td>
     </tr>
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Marketing</td>
