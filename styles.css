@@ -39,6 +39,12 @@
   --adkar-reinforcement: #06b6d4; /* cyan-500 */
 }
 
+/* Global heading styles */
+/* Apply the Horizon accent color to all main h1 headers across the deck */
+.slidev-layout h1 {
+  color: var(--horizon-accent);
+}
+
 /* Emphasize key words inline with a consistent accent */
 .keyword, .emph {
   color: var(--horizon-accent);
