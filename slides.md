@@ -18,11 +18,11 @@ For internal discussion only
 </div>
 
 ---
-src: ./slides/01-executive-summary.md
+src: ./slides/toc.md
 ---
 
 ---
-src: ./slides/00-introduction-ching-youngin-ai.md
+src: ./slides/01-executive-summary.md
 ---
 
 ---
@@ -47,6 +47,10 @@ src: ./slides/08-candidate-pilot-backlog.md
 
 ---
 src: ./slides/09-example-sales-outreach-workflow.md
+---
+
+---
+src: ./slides/00-introduction-ching-youngin-ai.md
 ---
 
 ---

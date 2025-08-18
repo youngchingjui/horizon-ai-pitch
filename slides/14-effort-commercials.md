@@ -1,9 +1,10 @@
 ---
 layout: three-cols
+routeAlias: commercials
 ---
 
 ::header::
-# Packages
+# Commercials
 
 ::default::
 <div class="package-card">

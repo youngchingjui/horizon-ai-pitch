@@ -1,5 +1,6 @@
 ---
 layout: two-cols
+routeAlias: about-young-ai
 ---
 
 ::header::

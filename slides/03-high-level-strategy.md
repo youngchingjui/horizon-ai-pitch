@@ -1,15 +1,16 @@
 ---
 layout: two-cols
+routeAlias: plan
 ---
 
 ::header::
-# We will co-build customized AI workflows for each function  
+# The Plan: With each function, we will engage, co-build customized AI workflows, and train employees 
 
 ::default::
 We will introduce practical AI into five functions — Sales, Marketing, CSM, Operations, and Support — to improve day‑to‑day workflows. The approach is simple: co‑design a few high‑impact use cases per team, teach the skills to use them well, ship fast, and measure what sticks.
 
 ::right::
-## Program flow
+## Plan
 - Work with designated "AI Champion" from each department to surface top workflows and pain points.
 - Co‑design and prioritize 10 candidate use cases (impact × feasibility).
 - Build quick pilots, validate and revise, then take live with wider team.
