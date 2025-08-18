@@ -40,7 +40,7 @@
 }
 
 /* Global heading styles */
-/* Apply the Horizon accent color to all main h1 headers across the deck */
+/* Apply the Horizons accent color to all main h1 headers across the deck */
 .slidev-layout h1 {
   color: var(--horizon-accent);
 }
