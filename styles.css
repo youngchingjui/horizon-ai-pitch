@@ -28,7 +28,7 @@
 /* Thematic color helpers */
 :root {
   /* Primary accent used across custom elements */
-  --horizon-accent: #113c4e; /* blue-600 */
+  --horizon-accent: #113c4e;
   --horizon-accent-rgb: 17, 60, 78;
 
   /* ADKAR palette */
@@ -53,6 +53,16 @@
 }
 
 /* Optional: subtle highlighter effect */
+/* Ensure any element with `.highlight` uses the Horizons accent */
+.highlight {
+  background: linear-gradient(
+    to bottom,
+    transparent 60%,
+    rgba(var(--horizon-accent-rgb), 0.22) 0
+  );
+  border-radius: 2px;
+}
+
 .keyword.highlight,
 .emph.highlight {
   background: linear-gradient(
