@@ -58,6 +58,12 @@
         <div style="background: var(--adkar-ability); color: #fff; border-radius: 999px; padding: 6px 12px; margin: 0 4px; text-align: center; height: 48px; display: flex; align-items: center; justify-content: center; line-height: 1.3; box-sizing: border-box;">Report</div>
       </td>
     </tr>
+    <tr>
+      <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left; height:56px; vertical-align: middle;">Week 3</td>
+      <td colspan="5" style="border-top:1px solid #eee; padding:6px; height:56px; vertical-align: middle;">
+        <div style="background: rgba(var(--horizon-accent-rgb), 0.22); color: #0f172a; border: 1px solid rgba(0,0,0,0.06); border-radius: 999px; padding: 6px 12px; margin: 0 4px; text-align: center; height: 48px; display: flex; align-items: center; justify-content: center; line-height: 1.3; box-sizing: border-box;">(Optional) Follow-on review</div>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -78,6 +84,7 @@
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
       <div><strong>Build and revise</strong> — Review → Build → Review → Validate on real examples</div>
       <div class="participant-tags">
+        <span class="tag ai-champion">AI Champion</span>
         <span class="tag young-ai">Young &amp; AI</span>
       </div>
     </div>
@@ -87,9 +94,8 @@
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
       <div><strong>Share with team</strong> — share workflows and quick wins, collect feedback</div>
       <div class="participant-tags">
-        <span class="tag ai-champion">AI Champion</span>
         <span class="tag young-ai">Young &amp; AI</span>
-        <span class="tag whole-team">Whole dept team</span>
+        <span class="tag whole-team">Dept team</span>
       </div>
     </div>
   </div>
@@ -98,9 +104,8 @@
     <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
       <div><strong>Workshop</strong> — audience-led Q&amp;A; address adoption blockers</div>
       <div class="participant-tags">
-        <span class="tag ai-champion">AI Champion</span>
         <span class="tag young-ai">Young &amp; AI</span>
-        <span class="tag whole-team">Whole dept team</span>
+        <span class="tag whole-team">Dept team</span>
         <span class="tag sponsor optional">Project sponsor</span>
       </div>
     </div>
@@ -116,23 +121,14 @@
       </div>
     </div>
   </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <span style="width:14px; height:14px; display:inline-block; background: rgba(var(--horizon-accent-rgb), 0.22); border: 1px solid rgba(0,0,0,0.06); border-radius: 3px;"></span>
+    <div style="display:flex; align-items:center; justify-content: space-between; gap: 12px; width: 100%;">
+      <div><strong>Follow-on review (enterprise package)</strong> — on-demand tweaks and support for deployed workflows</div>
+      <div class="participant-tags">
+        <span class="tag young-ai">Young &amp; AI</span>
+        <span class="tag whole-team">Dept team</span>
+      </div>
+    </div>
+  </div>
 </div>
-
----
-
-# Why this pacing
-
-- Focus: Dedicated two-week windows per department drive clarity and speed.
-- Feedback cadence: Interview on Day 1, share by end of Week 1, workshop on Thu Week 2, report Fri ensures learning loops.
-- Risk control: A gap week at Week 5 and discovery/buffer in Week 10 absorb surprises without slipping milestones.
-- Scale: Staggered overlap in Weeks 6–10 allows 3 departments to progress concurrently without overwhelming reviewers.
-
----
-
-# Key dates and artifacts
-
-- Interview: Monday of each sprint Week 1 (60m).
-- Workshop: Thursday of each sprint Week 2 (audience-led, Q&A, adoption blockers).
-- Report: Friday of each sprint Week 2 (brief, metrics snapshot, next steps).
-- Artifacts: Prompts, workflows, SOPs, Champion notes, short weekly report, final program report.
-
