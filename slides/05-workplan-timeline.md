@@ -1,6 +1,6 @@
-# Timeline Overview (12 weeks)
+# We'll build AI workflows for each department in 2-week sprints with time for follow-on review
 
-Small, predictable two-week sprints per department, plus a light follow-on review week.
+Every sprint includes "as-is" process flow interviews, AI workflow build and revise, trial period, workshops, and sprint review.
 
 <div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px;">
   <span style="display:inline-flex; align-items:center; gap:6px;">
@@ -13,14 +13,14 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
   </span>
 </div>
 
-<table style="width:100%; border-collapse: collapse; font-size: 14px;">
+<table style="width:100%; border-collapse: collapse; font-size: 14px; table-layout:fixed;">
+  <colgroup>
+    <col style="width:180px;">
+    <col span="12" style="width:auto;">
+  </colgroup>
   <thead>
-    <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #ccc;">Department / Stream</th>
-      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #ccc;" colspan="12">Weeks</th>
-    </tr>
-    <tr>
-      <th style="text-align:left; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);"></th>
+    <tr style="color: rgb(140, 140, 140)">
+      <th style="text-align:right; padding:6px 8px; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02); width:180px;">Weeks</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">1</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">2</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">3</th>
@@ -39,9 +39,8 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Sales</td>
       <td colspan="2" style="border-top:1px solid #eee; background: var(--horizon-accent);"></td>
-      <td colspan="2" style="border-top:1px solid #eee;"></td>
       <td colspan="1" style="border-top:1px solid #eee; background: rgba(var(--horizon-accent-rgb), 0.22);"></td>
-      <td colspan="7" style="border-top:1px solid #eee;"></td>
+      <td colspan="9" style="border-top:1px solid #eee;"></td>
     </tr>
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; text-align:left; white-space:nowrap;">Marketing</td>
