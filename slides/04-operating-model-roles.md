@@ -1,19 +1,24 @@
-# Operating Model & Required Resources
+---
+layout: two-cols
+---
 
-## How we work (aligned to the 2-week sprint and 12-week timeline)
+::header::
+# We optimize stakeholder commitments and resource usage to maximize the impact of this project
 
-- Cadence — Department-by-department, 2-week sprints: Week 1 (interview, build/validate), Week 2 (share, workshop, report), optional Week 3 follow-on review. Program reviews at Weeks 5 and 12.
-- Communications — Weekly report on Fridays from Ching; end-of-month executive updates (Weeks 4/8/12).
+::default::
 
-## Required resources and time commitments
+## Stakeholder commitments
 
-- Young & AI (Ching) — runs interviews, builds and validates workflows, hosts workshops, sends weekly reports, leads program reviews.
-- AI Champion (per department) —
-  - 60 minutes for interview (Week 1)
-  - Async feedback during build/validate (Week 1–2)
-  - Join workshop (Week 2)
-  - Review weekly report and confirm next steps (Week 2, Fri)
-- Whole department team — participate in the share-with-team session and the workshop in Week 2; provide feedback on adoption blockers.
-- Project sponsor — review weekly reports; attend end-of-month executive updates (Weeks 4/8/12); join program review checkpoints (Weeks 5 and 12). Optional attendance at department workshops and interviews.
-- IT / Data / Legal — provision tool access (SSO), data connections, and policy approvals in Weeks 1–2; ongoing guidance on compliance and retention.
+- **Young & AI** — conducts interviews, builds and validates AI workflows, hosts workshops, shares reports, leads program reviews.
+- **AI Champion** (per department)
+  - "As-is" process flow interview (1 hour)
+  - Async feedback during build/validate (~2 hours/week)
+  - Join workshop (1 hour)
+  - Review report and confirm next steps (1 hour)
+- **Whole department team** — participate in the share-with-team session and the workshop in Week 2; provide feedback on adoption blockers (~3 hours / sprint).
+- **Project sponsor** — reviews reports; join program review checkpoints (Weeks 5 and 12). Optional attendance at department workshops and interviews (~10 hours / project).
 
+::right::
+## Other requirements
+- **IT / Data / Legal** — provision tool access (SSO), data connections, and policy approvals in Weeks 1–2; ongoing guidance on compliance and retention.
+- **Tool budget** - allocate approximately $500 USD (~¥3,500 RMB) for tool evaluation and workflow development. 
