@@ -2,7 +2,7 @@
 
 Every sprint includes "as-is" process flow interviews, AI workflow build and revise, trial period, workshops, and sprint review.
 
-<div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px;">
+<div style="font-size: 12px; margin: 8px 0 12px; display:flex; align-items:center; gap:16px; flex-wrap: wrap;">
   <span style="display:inline-flex; align-items:center; gap:6px;">
     <span style="width:14px; height:10px; display:inline-block; background: var(--horizon-accent); border-radius: 2px;"></span>
     <span>Main work (2 weeks)</span>
@@ -10,6 +10,10 @@ Every sprint includes "as-is" process flow interviews, AI workflow build and rev
   <span style="display:inline-flex; align-items:center; gap:6px;">
     <span style="width:14px; height:10px; display:inline-block; background: rgba(var(--horizon-accent-rgb), 0.22); border: 1px solid rgba(0,0,0,0.06); border-radius: 2px;"></span>
     <span>Follow-on review (1 week)</span>
+  </span>
+  <span style="display:inline-flex; align-items:center; gap:6px;">
+    <span style="width:12px; height:12px; display:inline-block; border:2px solid var(--horizon-accent); border-radius: 9999px; box-shadow: 0 0 0 2px rgba(37,99,235,0.06);"></span>
+    <span>Program review checkpoints (weeks 5 and 12)</span>
   </span>
 </div>
 
@@ -25,14 +29,18 @@ Every sprint includes "as-is" process flow interviews, AI workflow build and rev
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">2</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">3</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">4</th>
-      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">5</th>
+      <th title="Program review" style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">
+        <span style="display:inline-flex; align-items:center; justify-content:center; min-width:24px; height:24px; padding:0 6px; border:2px solid var(--horizon-accent); border-radius:9999px; font-weight:700; line-height:1;">5</span>
+      </th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">6</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">7</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">8</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">9</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">10</th>
       <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">11</th>
-      <th style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">12</th>
+      <th title="Program review" style="text-align:center; padding:6px 0; border-bottom:1px solid #eee; background: rgba(0,0,0,0.02);">
+        <span style="display:inline-flex; align-items:center; justify-content:center; min-width:24px; height:24px; padding:0 6px; border:2px solid var(--horizon-accent); border-radius:9999px; font-weight:700; line-height:1;">12</span>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -72,3 +80,4 @@ Every sprint includes "as-is" process flow interviews, AI workflow build and rev
     </tr>
   </tbody>
 </table>
+
