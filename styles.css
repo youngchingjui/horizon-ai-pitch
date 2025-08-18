@@ -28,7 +28,7 @@
 /* Thematic color helpers */
 :root {
   /* Primary accent used across custom elements */
-  --horizon-accent: #113c4e; /* blue-600 */
+  --horizon-accent: #113c4e;
   --horizon-accent-rgb: 17, 60, 78;
 
   /* ADKAR palette */
