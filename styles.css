@@ -292,7 +292,6 @@
 }
 
 /* Allow opting out per-slide with `class: no-footer` */
-.no-footer .slidev-layout::after {
+.no-footer::after {
   content: none !important;
 }
-
