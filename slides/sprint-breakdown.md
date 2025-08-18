@@ -72,15 +72,15 @@
   </div>
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
-    <div><strong>Share with team (Mon, Week 2)</strong> — share workflows and quick wins, collect feedback</div>
+    <div><strong>Share with team</strong> — share workflows and quick wins, collect feedback</div>
   </div>
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--horizon-accent); border-radius: 3px;"></span>
-    <div><strong>Workshop (Thu, Week 2)</strong> — audience-led Q&A; address adoption blockers</div>
+    <div><strong>Workshop</strong> — audience-led Q&A; address adoption blockers</div>
   </div>
   <div style="display:flex; align-items:center; gap:10px;">
     <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-ability); border-radius: 3px;"></span>
-    <div><strong>Report (Fri, Week 2)</strong> — what shipped, usage snapshot, next steps</div>
+    <div><strong>Report</strong> — what shipped, usage snapshot, next steps</div>
   </div>
 </div>
 
