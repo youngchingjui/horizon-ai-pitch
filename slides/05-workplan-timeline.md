@@ -92,22 +92,42 @@ Small, predictable two-week sprints per department, plus a light follow-on revie
   <tbody>
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 1</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">1:1 interviews with dept lead / AI Champion (60m)</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Build workflows and prompts</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Tune, validate on real examples</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Shadow runs; prep share-out</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Share v1 with Champion; refine</td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-awareness);"></td>
+      <td colspan="4" style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-knowledge);"></td>
     </tr>
     <tr>
       <td style="border-top:1px solid #eee; padding:8px; font-weight:600; text-align:left;">Week 2</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Share AI workflows with wider team</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Iterate with team feedback</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Validate, prep enablement assets</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Audience-led workshop (Q&A)</td>
-      <td style="border-top:1px solid #eee; padding:8px; text-align:left;">Weekly report (what shipped, usage, next)</td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-reinforcement);"></td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px;"></td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px;"></td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-ability);"></td>
+      <td style="border-top:1px solid #eee; padding:6px; height:28px; background: var(--adkar-desire);"></td>
     </tr>
   </tbody>
 </table>
+
+<div style="font-size: 13px; margin-top: 10px; display: grid; gap: 8px;">
+  <div style="display:flex; align-items:center; gap:10px;">
+    <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-awareness); border-radius: 3px;"></span>
+    <div><strong>Interview (Mon, Week 1)</strong> — 1:1 interviews with dept lead / AI Champion (60m)</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-knowledge); border-radius: 3px;"></span>
+    <div><strong>Build cycle (Tue–Fri, Week 1)</strong> — Review → Build → Review → Validate on real examples</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-reinforcement); border-radius: 3px;"></span>
+    <div><strong>Share with team (Mon, Week 2)</strong> — share workflows and quick wins, collect feedback</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-ability); border-radius: 3px;"></span>
+    <div><strong>Workshop (Thu, Week 2)</strong> — audience-led Q&A; address adoption blockers</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <span style="width:14px; height:14px; display:inline-block; background: var(--adkar-desire); border-radius: 3px;"></span>
+    <div><strong>Report (Fri, Week 2)</strong> — what shipped, usage snapshot, next steps</div>
+  </div>
+</div>
 
 ---
 
