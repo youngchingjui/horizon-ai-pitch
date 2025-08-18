@@ -275,11 +275,8 @@
   background-repeat: no-repeat;
 }
 
-/* Reset the automatic H1 + P dimming on cover and executive summary slides */
-.slidev-page.cover .slidev-layout h1 + p,
-.slidev-page.exec-summary .slidev-layout h1 + p {
+.no-dim h1 + p {
   opacity: 1 !important;
   margin-top: revert !important;
   margin-bottom: revert !important;
 }
-
